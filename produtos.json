@@ -1,0 +1,6988 @@
+{
+  "produtos": [
+    {
+      "id": 77,
+      "nome": "Absorvente com abas Intimus - 8un",
+      "palavras_chave": [
+        "absorvente com abas intimus - 8un",
+        "absorvente com abas intimus - 8un",
+        "intimus",
+        "absorvente com",
+        "com abas",
+        "abas intimus",
+        "intimus 8un"
+      ],
+      "preco": 9.99,
+      "unidade": "un"
+    },
+    {
+      "id": 192,
+      "nome": "Absorvente O.b Intimus - 8 und",
+      "palavras_chave": [
+        "absorvente o.b intimus - 8 und",
+        "absorvente o.b intimus - 8 und",
+        "absorvente",
+        "o.b",
+        "intimus",
+        "absorvente o.b",
+        "o.b intimus"
+      ],
+      "preco": 15.99,
+      "unidade": "un"
+    },
+    {
+      "id": 369,
+      "nome": "Açaí - 175ml",
+      "palavras_chave": [
+        "açaí - 175ml",
+        "acai - 175ml",
+        "acai",
+        "acai 175ml"
+      ],
+      "preco": 10.96,
+      "unidade": "un"
+    },
+    {
+      "id": 1,
+      "nome": "Achocolatado Nescau - 200g",
+      "palavras_chave": [
+        "achocolatado nescau - 200g",
+        "achocolatado nescau 200g",
+        "achocolatado 200g",
+        "nescau 200g"
+      ],
+      "preco": 10.26,
+      "unidade": "un"
+    },
+    {
+      "id": 522,
+      "nome": "Achocolatado Nescau - 350g",
+      "palavras_chave": [
+        "achocolatado nescau - 350g",
+        "achocolatado nescau - 350g",
+        "achocolatado",
+        "nescau",
+        "achocolatado nescau",
+        "nescau 350g"
+      ],
+      "preco": 14.99,
+      "unidade": "un"
+    },
+    {
+      "id": 13,
+      "nome": "Achocolatado Toddy 200g",
+      "palavras_chave": [
+        "achocolatado toddy 200g",
+        "achocolatado toddy 200g",
+        "toddy",
+        "achocolatado toddy",
+        "toddy 200g"
+      ],
+      "preco": 9.99,
+      "unidade": "un"
+    },
+    {
+      "id": 19,
+      "nome": "Achocolatado Toddynho - 200ml",
+      "palavras_chave": [
+        "achocolatado toddynho - 200ml",
+        "achocolatado toddynho - 200ml",
+        "toddynho",
+        "toddy 200ml",
+        "achocolatado toddynho",
+        "toddynho 200ml"
+      ],
+      "preco": 4.78,
+      "unidade": "un"
+    },
+    {
+      "id": 414,
+      "nome": "Açucar -1Kg",
+      "palavras_chave": [
+        "açucar -1kg",
+        "acucar -1kg",
+        "açucar caravelas",
+        "açucar 1kg",
+        "acucar 1kg"
+      ],
+      "preco": 7.5,
+      "unidade": "un"
+    },
+    {
+      "id": 5,
+      "nome": "Açucar da barra - 1Kg",
+      "palavras_chave": [
+        "açucar da barra - 1kg",
+        "acucar da barra - 1kg",
+        "acucar barra",
+        "da barra açucar",
+        "barra 1kg"
+      ],
+      "preco": 8.5,
+      "unidade": "un"
+    },
+    {
+      "id": 230,
+      "nome": "Açucar União -1Kg",
+      "palavras_chave": [
+        "açucar união -1kg",
+        "acucar uniao -1kg",
+        "acucar",
+        "acucar uniao",
+        "uniao 1kg"
+      ],
+      "preco": 8.99,
+      "unidade": "un"
+    },
+    {
+      "id": 464,
+      "nome": "Adoçante Adocyl - 100ml",
+      "palavras_chave": [
+        "adoçante adocyl - 100ml",
+        "adocante adocyl - 100ml",
+        "adocante",
+        "adocyl",
+        "adocante adocyl",
+        "adocyl 100ml"
+      ],
+      "preco": 7.95,
+      "unidade": "un"
+    },
+    {
+      "id": 269,
+      "nome": "Água de coco Kero Coco- 200ml",
+      "palavras_chave": [
+        "água de coco kero coco- 200ml",
+        "agua de coco kero coco- 200ml",
+        "kero 200ml",
+        "de coco 200ml",
+        "coco kero 200ml",
+        "kero coco 200ml",
+        "coco 200ml"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 283,
+      "nome": "Água de coco Kero Coco- 330ml",
+      "palavras_chave": [
+        "água de coco kero coco- 330ml",
+        "agua de coco kero coco- 330ml",
+        "kero",
+        "330ml",
+        "agua de",
+        "de coco",
+        "coco kero",
+        "kero coco",
+        "coco 330ml"
+      ],
+      "preco": 6.87,
+      "unidade": "un"
+    },
+    {
+      "id": 20,
+      "nome": "Água mineral - 510ml",
+      "palavras_chave": [
+        "água mineral - 510ml",
+        "agua mineral - 510ml",
+        "agua sem gas",
+        "mineral sem gas",
+        "agua mineral 510ml",
+        "agua mineral",
+        "mineral 510ml"
+      ],
+      "preco": 2.99,
+      "unidade": "un"
+    },
+    {
+      "id": 72,
+      "nome": "Água mineral com gás - 510ml",
+      "palavras_chave": [
+        "água mineral com gás - 510ml",
+        "agua mineral com gas - 510ml",
+        "agua",
+        "agua mineral com gás",
+        "mineral com gas",
+        "com gas"
+      ],
+      "preco": 3.99,
+      "unidade": "un"
+    },
+    {
+      "id": 82,
+      "nome": "Água sanitária - 1LT",
+      "palavras_chave": [
+        "água sanitária - 1lt",
+        "agua sanitaria - 1lt",
+        "sanitaria",
+        "agua sanitaria",
+        "sanitaria 1lt"
+      ],
+      "preco": 7.98,
+      "unidade": "un"
+    },
+    {
+      "id": 261,
+      "nome": "Água sanitária Super Candida - 1LT",
+      "palavras_chave": [
+        "água sanitária super candida - 1lt",
+        "agua sanitaria super candida - 1lt",
+        "candida",
+        "agua sanitaria",
+        "sanitaria super",
+        "super candida",
+        "candida 1lt"
+      ],
+      "preco": 7.98,
+      "unidade": "un"
+    },
+    {
+      "id": 23,
+      "nome": "Agua tônica Schweppes - 350ml",
+      "palavras_chave": [
+        "agua tônica schweppes - 350ml",
+        "agua tonica schweppes - 350ml",
+        "tonica",
+        "schweppes",
+        "agua tonica",
+        "tonica schweppes",
+        "schweppes 350ml"
+      ],
+      "preco": 4.48,
+      "unidade": "un"
+    },
+    {
+      "id": 460,
+      "nome": "Alcool - 1L",
+      "palavras_chave": [
+        "alcool - 1l",
+        "alcool - 1l",
+        "alcool",
+        "alcool 1 litro"
+      ],
+      "preco": 9.97,
+      "unidade": "un"
+    },
+    {
+      "id": 75,
+      "nome": "Algodão - 25g",
+      "palavras_chave": [
+        "algodão - 25g",
+        "algodao - 25g",
+        "algodao",
+        "algodao 25g"
+      ],
+      "preco": 6.97,
+      "unidade": "un"
+    },
+    {
+      "id": 467,
+      "nome": "Alho triturado - 200g",
+      "palavras_chave": [
+        "alho triturado - 200g",
+        "alho triturado - 200g",
+        "alho",
+        "alho triturado",
+        "triturado 200g"
+      ],
+      "preco": 8.97,
+      "unidade": "un"
+    },
+    {
+      "id": 224,
+      "nome": "Amaciante Downy - 500ml",
+      "palavras_chave": [
+        "amaciante downy - 500ml",
+        "amaciante downy - 500ml",
+        "amaciante",
+        "downy",
+        "amaciante downy",
+        "downy 500ml"
+      ],
+      "preco": 22.49,
+      "unidade": "un"
+    },
+    {
+      "id": 76,
+      "nome": "Amaciante Ypê - 500ml",
+      "palavras_chave": [
+        "amaciante ypê - 500ml",
+        "amaciante ype - 500ml",
+        "amaciante ype",
+        "ype 500ml"
+      ],
+      "preco": 6.78,
+      "unidade": "un"
+    },
+    {
+      "id": 184,
+      "nome": "Amendoim cebola e salsa Pettiz - 70g",
+      "palavras_chave": [
+        "amendoim cebola e salsa pettiz - 70g",
+        "amendoim cebola e salsa pettiz - 70g",
+        "amendoim",
+        "pettiz",
+        "amendoim cebola",
+        "cebola salsa amendoim",
+        "salsa pettiz",
+        "pettiz 70g"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 185,
+      "nome": "Amendoim pimenta vermelha Pettiz - 70g",
+      "palavras_chave": [
+        "amendoim pimenta vermelha pettiz - 70g",
+        "amendoim pimenta vermelha pettiz - 70g",
+        "amendoim pimenta",
+        "pimenta vermelha",
+        "vermelha pettiz",
+        "pettiz 70g"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 168,
+      "nome": "Amido de milho Maizena - 200g",
+      "palavras_chave": [
+        "amido de milho maizena - 200g",
+        "amido de milho maizena - 200g",
+        "amido",
+        "maizena",
+        "amido de milho 200g",
+        "milho maizena",
+        "maizena 200g"
+      ],
+      "preco": 9.97,
+      "unidade": "un"
+    },
+    {
+      "id": 453,
+      "nome": "Ana Maria Banoffe 70g",
+      "palavras_chave": [
+        "ana maria banoffe 70g",
+        "ana maria banoffe 70g",
+        "banoffe",
+        "ana maria",
+        "maria banoffe",
+        "banoffe 70g"
+      ],
+      "preco": 6.27,
+      "unidade": "un"
+    },
+    {
+      "id": 120,
+      "nome": "Ana Maria baunilha 70g",
+      "palavras_chave": [
+        "ana maria baunilha 70g",
+        "ana maria baunilha 70g",
+        "ana maria",
+        "maria baunilha",
+        "baunilha 70g"
+      ],
+      "preco": 6.27,
+      "unidade": "un"
+    },
+    {
+      "id": 118,
+      "nome": "Ana Maria chocolate 70g",
+      "palavras_chave": [
+        "ana maria chocolate 70g",
+        "ana maria chocolate 70g",
+        "ana maria",
+        "maria chocolate",
+        "chocolate 70g"
+      ],
+      "preco": 6.27,
+      "unidade": "un"
+    },
+    {
+      "id": 123,
+      "nome": "Ana Maria Chocolate cobertura choco 42g",
+      "palavras_chave": [
+        "ana maria chocolate cobertura choco 42g",
+        "ana maria chocolate 42g",
+        "maria chocolate 42g",
+        "chocolate cobertura 42g",
+        "cobertura choco 42g",
+        "choco 42g"
+      ],
+      "preco": 3.49,
+      "unidade": "un"
+    },
+    {
+      "id": 116,
+      "nome": "Ana Maria Gotas de chocolate 70g",
+      "palavras_chave": [
+        "ana maria gotas de chocolate 70g",
+        "ana maria gotas de chocolate 70g",
+        "ana maria gotas de chocolate",
+	"ana maria gotas",
+        "chocolate 70g"
+      ],
+      "preco": 6.27,
+      "unidade": "un"
+    },
+    {
+      "id": 477,
+      "nome": "Ana Maria Morango 70g",
+      "palavras_chave": [
+        "ana maria morango 70g",
+        "ana maria morango 70g",
+        "morango 70g"
+      ],
+      "preco": 6.27,
+      "unidade": "un"
+    },
+    {
+      "id": 122,
+      "nome": "Ana Maria Napolitano cobertura choco 42g",
+      "palavras_chave": [
+        "ana maria napolitano cobertura choco 42g",
+        "ana maria napolitano 42g",
+        "napolitano cobertura",
+        "cobertura choco",
+        "choco 42g"
+      ],
+      "preco": 3.49,
+      "unidade": "un"
+    },
+    {
+      "id": 373,
+      "nome": "Ana Maria Triplo chocolate 70g",
+      "palavras_chave": [
+        "ana maria triplo chocolate 70g",
+        "ana maria triplo chocolate",
+        "ana maria triplo",
+        "chocolate 70g"
+      ],
+      "preco": 6.27,
+      "unidade": "un"
+    },
+    {
+      "id": 303,
+      "nome": "Apresuntado fatiado Aurora - 180g",
+      "palavras_chave": [
+        "apresuntado fatiado aurora - 180g",
+        "apresuntado fatiado aurora 180g",
+        "apresuntado aurora 180g",
+        "apresuntado fatiado",
+        "fatiado aurora",
+        "aurora 180g"
+      ],
+      "preco": 9.77,
+      "unidade": "un"
+    },
+    {
+      "id": 315,
+      "nome": "Apresuntado fatiado Perdigão- 200g",
+      "palavras_chave": [
+        "apresuntado fatiado perdigão- 200g",
+        "apresuntado fatiado perdigao- 200g",
+        "apresuntado perdigão 200g",
+        "perdigao 200g",
+        "apresuntado fatiado 200g",
+        "fatiado perdigao",
+        "perdigao 200g"
+      ],
+      "preco": 8.27,
+      "unidade": "un"
+    },
+    {
+      "id": 413,
+      "nome": "Apresuntado fatiado seara - 200g",
+      "palavras_chave": [
+        "apresuntado fatiado seara - 200g",
+        "apresuntado fatiado seara - 200g",
+        "apresuntado",
+        "apresuntado fatiado 200g",
+        "fatiado seara 200g",
+        "seara 200g"
+      ],
+      "preco": 10.59,
+      "unidade": "un"
+    },
+    {
+      "id": 31,
+      "nome": "Arroz Camil - 1kg",
+      "palavras_chave": [
+        "arroz camil - 1kg",
+        "arroz camil - 1kg",
+        "arroz camil 1kg",
+        "camil 1kg"
+      ],
+      "preco": 11.96,
+      "unidade": "un"
+    },
+    {
+      "id": 289,
+      "nome": "Arroz Namorado - 1kg",
+      "palavras_chave": [
+        "arroz namorado - 1kg",
+        "arroz namorado - 1kg",
+        "arroz 1kg",
+        "arroz namorado 1kg",
+        "namorado 1kg"
+      ],
+      "preco": 11.96,
+      "unidade": "un"
+    },
+    {
+      "id": 280,
+      "nome": "Arroz Namorado- 5kg",
+      "palavras_chave": [
+        "arroz namorado- 5kg",
+        "arroz namorado- 5kg",
+        "arroz",
+        "arroz namorado",
+        "namorado 5kg"
+      ],
+      "preco": 23.99,
+      "unidade": "un"
+    },
+    {
+      "id": 112,
+      "nome": "Azeite de Oliva Andorinha - 250ml",
+      "palavras_chave": [
+        "azeite de oliva andorinha - 250ml",
+        "azeite de oliva andorinha - 250ml",
+        "azeite",
+        "oliva andorinha",
+        "andorinha 250ml"
+      ],
+      "preco": 35.16,
+      "unidade": "un"
+    },
+    {
+      "id": 449,
+      "nome": "Azeitona verdes Andaluzia - 90g",
+      "palavras_chave": [
+        "azeitona verdes andaluzia - 90g",
+        "azeitona verdes andaluzia - 90g",
+        "azeitona",
+        "azeitona verdes",
+        "verdes andaluzia",
+        "andaluzia 90g"
+      ],
+      "preco": 2.5,
+      "unidade": "un"
+    },
+    {
+      "id": 383,
+      "nome": "Baconzitos - 86g",
+      "palavras_chave": [
+        "baconzitos - 86g",
+        "baconzitos - 86g",
+        "baconzitos",
+        "baconzitos 86g"
+      ],
+      "preco": 11.56,
+      "unidade": "un"
+    },
+    {
+      "id": 88,
+      "nome": "Bala Fini amoras - 15g",
+      "palavras_chave": [
+        "bala fini amoras - 15g",
+        "bala fini amoras - 15g",
+        "bala fini 15g",
+        "fini amoras 15g",
+        "amoras 15g"
+      ],
+      "preco": 1.8,
+      "unidade": "un"
+    },
+    {
+      "id": 342,
+      "nome": "Bala fini Bananas - 90g",
+      "palavras_chave": [
+        "bala fini bananas - 90g",
+        "bala fini bananas - 90g",
+        "bala",
+        "fini",
+        "bala fini",
+        "fini bananas",
+        "bananas 90g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 90,
+      "nome": "Bala fini dentaduras - 15g",
+      "palavras_chave": [
+        "bala fini dentaduras - 15g",
+        "bala fini dentaduras - 15g",
+        "dentaduras 15g"
+      ],
+      "preco": 1.8,
+      "unidade": "un"
+    },
+    {
+      "id": 87,
+      "nome": "Bala Fini minhocas - 15g",
+      "palavras_chave": [
+        "bala fini minhocas - 15g",
+        "bala fini minhocas - 15g",
+        "minhocas 15g"
+      ],
+      "preco": 1.8,
+      "unidade": "un"
+    },
+    {
+      "id": 502,
+      "nome": "Bala fini mix surpresa - 80g",
+      "palavras_chave": [
+        "bala fini mix surpresa - 80g",
+        "bala fini mix surpresa - 80g",
+        "bala",
+        "fini",
+        "bala fini",
+	"bala fini 80g",
+        "fini mix",
+        "mix surpresa",
+        "surpresa 80g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 89,
+      "nome": "Bala fini tubesTutti-frutti - 15g",
+      "palavras_chave": [
+        "bala fini tubestutti-frutti - 15g",
+        "bala fini tubestutti-frutti - 15g",
+        "frutti 15g"
+      ],
+      "preco": 1.8,
+      "unidade": "un"
+    },
+    {
+      "id": 325,
+      "nome": "Balas Fini Beijos - 80g",
+      "palavras_chave": [
+        "balas fini beijos - 80g",
+        "balas fini beijos - 80g",
+        "balas fini",
+        "fini beijos",
+        "beijos 80g"
+      ],
+      "preco": 7.99,
+      "unidade": "un"
+    },
+    {
+      "id": 474,
+      "nome": "Balas Fini Dentaduras - 80g",
+      "palavras_chave": [
+        "balas fini dentaduras - 80g",
+        "balas fini dentaduras - 80g",
+        "balas",
+        "fini",
+        "dentaduras",
+        "balas fini",
+        "fini dentaduras",
+        "dentaduras 80g"
+      ],
+      "preco": 7.99,
+      "unidade": "un"
+    },
+    {
+      "id": 350,
+      "nome": "Balas Fini gelatina Amoras - 80g",
+      "palavras_chave": [
+        "balas fini gelatina amoras - 80g",
+        "balas fini gelatina amoras - 80g",
+        "balas",
+        "fini",
+        "gelatina",
+        "amoras",
+        "balas fini",
+        "fini gelatina",
+        "gelatina amoras",
+        "amoras 80g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 525,
+      "nome": "Balas Fini Gingerbread - 80g",
+      "palavras_chave": [
+        "balas fini gingerbread - 80g",
+        "balas fini gingerbread - 80g",
+        "balas",
+        "fini",
+        "gingerbread",
+        "balas fini",
+        "fini gingerbread",
+        "gingerbread 80g"
+      ],
+      "preco": 7.99,
+      "unidade": "un"
+    },
+    {
+      "id": 409,
+      "nome": "Balas Fini Harry Potter - 70g",
+      "palavras_chave": [
+        "balas fini harry potter - 70g",
+        "balas fini harry potter - 70g",
+        "balas",
+        "fini",
+        "harry",
+        "potter",
+        "balas fini",
+        "fini harry",
+        "harry potter",
+        "potter 70g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 491,
+      "nome": "Balas Fini Marshmallows Pistache - 80g",
+      "palavras_chave": [
+        "balas fini marshmallows pistache - 80g",
+        "balas fini marshmallows pistache - 80g",
+        "balas",
+        "fini",
+        "marshmallows",
+        "pistache",
+        "balas fini",
+        "fini marshmallows",
+        "marshmallows pistache",
+        "pistache 80g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 351,
+      "nome": "Balas Fini Minhocas - 80g",
+      "palavras_chave": [
+        "balas fini minhocas - 80g",
+        "balas fini minhocas - 80g",
+        "balas",
+        "fini",
+        "minhocas",
+        "balas fini",
+        "fini minhocas",
+        "minhocas 80g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 326,
+      "nome": "Balas Fini minhocas azedinhas - 80g",
+      "palavras_chave": [
+        "balas fini minhocas azedinhas - 80g",
+        "balas fini minhocas azedinhas - 80g",
+        "balas",
+        "fini",
+        "minhocas",
+        "azedinhas",
+        "balas fini",
+        "fini minhocas",
+        "minhocas azedinhas",
+        "azedinhas 80g"
+      ],
+      "preco": 7.99,
+      "unidade": "un"
+    },
+    {
+      "id": 473,
+      "nome": "Balas Fini Oceanitos - 80g",
+      "palavras_chave": [
+        "balas fini oceanitos - 80g",
+        "balas fini oceanitos - 80g",
+        "balas",
+        "fini",
+        "oceanitos",
+        "balas fini",
+        "fini oceanitos",
+        "oceanitos 80g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 513,
+      "nome": "Balas Fini Ratos - 80g",
+      "palavras_chave": [
+        "balas fini ratos - 80g",
+        "balas fini ratos - 80g",
+        "balas",
+        "fini",
+        "ratos",
+        "balas fini",
+        "fini ratos",
+        "ratos 80g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 475,
+      "nome": "Balas Fini Sorvetinho - 80g",
+      "palavras_chave": [
+        "balas fini sorvetinho - 80g",
+        "balas fini sorvetinho - 80g",
+        "balas",
+        "fini",
+        "sorvetinho",
+        "balas fini",
+        "fini sorvetinho",
+        "sorvetinho 80g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 349,
+      "nome": "Balas Fini Tubes  - 80g",
+      "palavras_chave": [
+        "balas fini tubes  - 80g",
+        "balas fini tubes  - 80g",
+        "balas",
+        "fini",
+        "tubes",
+        "balas fini",
+        "fini tubes",
+        "tubes 80g"
+      ],
+      "preco": 7.99,
+      "unidade": "un"
+    },
+    {
+      "id": 268,
+      "nome": "Balas Fini ursinhos - 80g",
+      "palavras_chave": [
+        "balas fini ursinhos - 80g",
+        "balas fini ursinhos - 80g",
+        "balas",
+        "fini",
+        "ursinhos",
+        "balas fini",
+        "fini ursinhos",
+        "ursinhos 80g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 344,
+      "nome": "Barra de chocolate Alpino ao leite Nestle - 85g",
+      "palavras_chave": [
+        "barra de chocolate alpino ao leite nestle - 85g",
+        "barra de chocolate alpino ao leite nestle - 85g",
+        "chocolate alpino",
+        "alpino ao leite",
+        "barra leite nestle",
+        "nestle 85g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 158,
+      "nome": "Barra de chocolate ao leite Lacta - 80g",
+      "palavras_chave": [
+        "barra de chocolate ao leite lacta - 80g",
+        "barra de chocolate ao leite lacta - 80g",
+        "barra ao leite lacta",
+        "lacta 80g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 419,
+      "nome": "Barra de chocolate caramelo recheados Lacta - 104g",
+      "palavras_chave": [
+        "barra de chocolate caramelo recheados lacta - 104g",
+        "barra de chocolate caramelo recheados lacta - 104g",
+        "chocolate caramelo",
+        "caramelo recheados",
+        "recheados lacta",
+        "lacta 104g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 226,
+      "nome": "Barra de chocolate Diamante negro Lacta - 80g",
+      "palavras_chave": [
+        "barra de chocolate diamante negro lacta - 80g",
+        "barra de chocolate diamante negro lacta - 80g",
+        "barra",
+        "chocolate diamante",
+        "diamante negro",
+        "negro lacta",
+	"barra diamente negro",
+	"diamante negro 80g",
+        "lacta 80g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 394,
+      "nome": "Barra de chocolate Laka+ Diamante negro - 80g",
+      "palavras_chave": [
+        "barra de chocolate laka+ diamante negro - 80g",
+        "barra de chocolate laka+ diamante negro - 80g",
+        "chocolate laka",
+        "laka+ diamante",
+        "diamante negro",
+        "negro 80g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 181,
+      "nome": "Barra de chocolate Laka Lacta - 80g",
+      "palavras_chave": [
+        "barra de chocolate laka lacta - 80g",
+        "barra de chocolate laka lacta - 80g",
+        "chocolate laka",
+        "laka lacta",
+        "lacta 80g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 156,
+      "nome": "Barra de chocolate meio amargo Lacta - 80g",
+      "palavras_chave": [
+        "barra de chocolate meio amargo lacta - 80g",
+        "barra de chocolate meio amargo lacta - 80g",
+        "meio amargo",
+        "amargo lacta",
+        "lacta 80g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 302,
+      "nome": "Barra de chocolate oreo recheados Lacta - 90g",
+      "palavras_chave": [
+        "barra de chocolate oreo recheados lacta - 90g",
+        "barra de chocolate oreo recheados lacta - 90g",
+        "chocolate oreo",
+        "oreo recheados",
+        "recheados lacta",
+        "lacta 90g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 343,
+      "nome": "Barra de chocolate oreo recheados Laka - 90g",
+      "palavras_chave": [
+        "barra de chocolate oreo recheados laka - 90g",
+        "barra de chocolate oreo recheados laka - 90g",
+        "barra",
+        "chocolate oreo",
+        "oreo recheados",
+        "recheados laka",
+        "laka 90g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 155,
+      "nome": "Barra de chocolate ouro branco Lacta - 98g",
+      "palavras_chave": [
+        "barra de chocolate ouro branco lacta - 98g",
+        "barra de chocolate ouro branco lacta - 98g",
+        "barra",
+        "de chocolate",
+        "chocolate ouro",
+        "ouro branco",
+        "branco lacta",
+        "lacta 98g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 157,
+      "nome": "Barra de chocolate Shot Lacta - 80g",
+      "palavras_chave": [
+        "barra de chocolate shot lacta - 80g",
+        "barra de chocolate shot lacta - 80g",
+        "chocolate shot",
+        "shot lacta",
+        "lacta 80g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 182,
+      "nome": "Barra de chocolate sonho de valsa Lacta - 98g",
+      "palavras_chave": [
+        "barra de chocolate sonho de valsa lacta - 98g",
+        "barra de chocolate sonho de valsa - 98g",
+        "barra sonho de valsa lacta",
+        "lacta 98g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 482,
+      "nome": "Barrinha Bauducco chocolate 25g",
+      "palavras_chave": [
+        "barrinha bauducco chocolate 25g",
+        "barrinha bauducco chocolate 25g",
+        "barrinha 25g",
+        "barrinha de chocolate",
+        "barrinha bauducco",
+        "bauducco chocolate",
+        "chocolate 25g"
+      ],
+      "preco": 3.2,
+      "unidade": "un"
+    },
+    {
+      "id": 162,
+      "nome": "Batata Frita - Bem Brasil 1,05 Kg",
+      "palavras_chave": [
+        "batata frita - bem brasil 1,05 kg",
+        "batata frita - bem brasil 1,05 kg",
+        "batata frita",
+        "frita bem",
+        "bem brasil",
+        "brasil 1,05"
+      ],
+      "preco": 28.92,
+      "unidade": "un"
+    },
+    {
+      "id": 50,
+      "nome": "Batata palha da terrinha - 100g",
+      "palavras_chave": [
+        "batata palha da terrinha - 100g",
+        "batata palha da terrinha 100g",
+        "batata palha da terrinha",
+        "batata palha terrinha",
+        "terrinha 100g"
+      ],
+      "preco": 12.99,
+      "unidade": "un"
+    },
+    {
+      "id": 396,
+      "nome": "Batata palha Yoki - 105g",
+      "palavras_chave": [
+        "batata palha yoki - 105g",
+        "batata palha yoki 105g",
+        "batata palha",
+        "palha yoki",
+        "yoki 105g"
+      ],
+      "preco": 14.99,
+      "unidade": "un"
+    },
+    {
+      "id": 490,
+      "nome": "Bicarbonato de sódio 80g",
+      "palavras_chave": [
+        "bicarbonato de sódio 80g",
+        "bicarbonato de sodio 80g",
+        "bicarbonato",
+        "bicarbonato de sodio",
+        "sodio 80g"
+      ],
+      "preco": 4.49,
+      "unidade": "un"
+    },
+    {
+      "id": 58,
+      "nome": "Biscoito club social original - 24g",
+      "palavras_chave": [
+        "biscoito club social original - 24g",
+        "biscoito club social original - 24g",
+        "biscoito club",
+        "club social",
+        "social original",
+        "original 24g"
+      ],
+      "preco": 2.49,
+      "unidade": "un"
+    },
+    {
+      "id": 140,
+      "nome": "Biscoito cream cracker Adria - 170g",
+      "palavras_chave": [
+        "biscoito cream cracker adria - 170g",
+        "biscoito cream cracker adria - 170g",
+        "biscoito cream",
+        "cream cracker",
+        "cracker adria",
+        "adria 170g"
+      ],
+      "preco": 4.49,
+      "unidade": "un"
+    },
+    {
+      "id": 341,
+      "nome": "Biscoito negresco Nestlé - 90g",
+      "palavras_chave": [
+        "biscoito negresco nestlé - 90g",
+        "biscoito negresco nestle - 90g",
+        "biscoito",
+        "negresco",
+        "biscoito negresco",
+        "negresco nestle",
+        "nestle 90g"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 468,
+      "nome": "Bisnaguinha Kim - 300g",
+      "palavras_chave": [
+        "bisnaguinha kim - 300g",
+        "bisnaguinha kim 300g",
+        "bisnaguinha kim",
+        "kim 300g"
+      ],
+      "preco": 8.89,
+      "unidade": "un"
+    },
+    {
+      "id": 193,
+      "nome": "Bisnaguinha Panco - 300g",
+      "palavras_chave": [
+        "bisnaguinha panco - 300g",
+        "bisnaguinha panco 300g",
+        "bisnaguinha panco",
+        "panco 300g"
+      ],
+      "preco": 11.99,
+      "unidade": "un"
+    },
+    {
+      "id": 497,
+      "nome": "Bisnaguinha Pulman Artesano - 300g",
+      "palavras_chave": [
+        "bisnaguinha pulman artesano - 300g",
+        "bisnaguinha pulman artesano - 300g",
+        "bisnaguinha",
+        "artesano",
+        "bisnaguinha pulman",
+        "pulman artesano",
+        "artesano 300g"
+      ],
+      "preco": 12.5,
+      "unidade": "un"
+    },
+    {
+      "id": 234,
+      "nome": "Bis original - 100g",
+      "palavras_chave": [
+        "bis original - 100g",
+        "bis original - 100g",
+        "bis",
+        "bis original",
+        "original 100g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 345,
+      "nome": "Bis Xtra branco - 45g",
+      "palavras_chave": [
+        "bis xtra branco - 45g",
+        "bis xtra branco - 45g",
+        "xtra",
+        "bis xtra",
+        "xtra branco",
+        "branco 45g"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 253,
+      "nome": "Bis Xtra oreo - 45g",
+      "palavras_chave": [
+        "bis xtra oreo - 45g",
+        "bis xtra oreo - 45g",
+        "xtra",
+        "bis xtra",
+        "xtra oreo",
+        "oreo 45g"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 252,
+      "nome": "Bis Xtra original - 45g",
+      "palavras_chave": [
+        "bis xtra original - 45g",
+        "bis xtra original - 45g",
+        "bis xtra",
+        "xtra original",
+        "original 45g"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 438,
+      "nome": "Bolacha Bauducco Wafer chocolate - 140g",
+      "palavras_chave": [
+        "bolacha bauducco wafer chocolate - 140g",
+        "bolacha bauducco wafer chocolate 140g",
+        "bauducco wafer 140g",
+        "wafer chocolate",
+        "chocolate 140g"
+      ],
+      "preco": 5.98,
+      "unidade": "un"
+    },
+    {
+      "id": 509,
+      "nome": "Bolacha Bauducco Wafer Chocolate Max - 140g",
+      "palavras_chave": [
+        "bolacha bauducco wafer chocolate max - 140g",
+        "bolacha bauducco wafer chocolate max - 140g",
+        "wafer max",
+        "chocolate",
+        "max",
+        "bolacha bauducco",
+        "bauducco wafer max",
+        "wafer chocolate max",
+        "chocolate max",
+        "max 140g"
+      ],
+      "preco": 6.99,
+      "unidade": "un"
+    },
+    {
+      "id": 446,
+      "nome": "Bolacha Bauducco Wafer pistache Max - 140g",
+      "palavras_chave": [
+        "bolacha bauducco wafer pistache max - 140g",
+        "bolacha bauducco wafer pistache max - 140g",
+        "bolacha pistache",
+        "bauducco pistache",
+        "bolacha bauducco",
+        "bauducco wafer",
+        "wafer pistache",
+        "pistache max",
+        "max 140g"
+      ],
+      "preco": 6.97,
+      "unidade": "un"
+    },
+    {
+      "id": 359,
+      "nome": "Bolacha de sal - Cream cracker Bauducco 165g",
+      "palavras_chave": [
+        "bolacha de sal - cream cracker bauducco 165g",
+        "bolacha de sal - cream cracker bauducco 165g",
+        "sal cream",
+        "cream cracker",
+        "cracker bauducco",
+        "bauducco 165g"
+      ],
+      "preco": 4.58,
+      "unidade": "un"
+    },
+    {
+      "id": 320,
+      "nome": "Bolacha de sal - Cream cracker marilan 170g",
+      "palavras_chave": [
+        "bolacha de sal - cream cracker marilan 170g",
+        "bolacha de sal - cream cracker marilan 170g",
+        "sal cream marilan",
+        "cream cracker marilan",
+        "cracker marilan",
+        "marilan 170g"
+      ],
+      "preco": 1.99,
+      "unidade": "un"
+    },
+    {
+      "id": 149,
+      "nome": "Bolacha Marilan maizena 170g",
+      "palavras_chave": [
+        "bolacha marilan maizena 170g",
+        "bolacha marilan maizena 170g",
+        "maizena marilaz",
+        "bolacha marilan 170g",
+        "bolacha marilan",
+        "marilan maizena",
+        "maizena 170g"
+      ],
+      "preco": 5.69,
+      "unidade": "un"
+    },
+    {
+      "id": 61,
+      "nome": "Bolacha passatempo chocolate - 130g",
+      "palavras_chave": [
+        "bolacha passatempo chocolate - 130g",
+        "bolacha passatempo chocolate - 130g",
+        "passatempo",
+        "bolacha passatempo",
+        "passatempo chocolate",
+        "chocolate 130g"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 186,
+      "nome": "Bolacha Trakinas chocolate - 126g",
+      "palavras_chave": [
+        "bolacha trakinas chocolate - 126g",
+        "bolacha trakinas chocolate 126g",
+        "trakinas",
+        "bolacha trakinas",
+        "trakinas chocolate",
+        "chocolate 126g"
+      ],
+      "preco": 5.59,
+      "unidade": "un"
+    },
+    {
+      "id": 187,
+      "nome": "Bolacha Trakinas meio a meio - 126g",
+      "palavras_chave": [
+        "bolacha trakinas meio a meio - 126g",
+        "bolacha trakinas meio a meio - 126g",
+        "bolacha trakinas",
+        "trakinas meio",
+        "trakinas meio meio",
+        "meio 126g"
+      ],
+      "preco": 5.59,
+      "unidade": "un"
+    },
+    {
+      "id": 62,
+      "nome": "Bolacha Trakinas morango - 126g",
+      "palavras_chave": [
+        "bolacha trakinas morango - 126g",
+        "bolacha trakinas morango 126g",
+        "bolacha trakinas morango",
+        "trakinas morango",
+        "bolacha morango 126g"
+      ],
+      "preco": 5.59,
+      "unidade": "un"
+    },
+    {
+      "id": 501,
+      "nome": "Bolacha Trakinas tortinha de limão - 126g",
+      "palavras_chave": [
+        "bolacha trakinas tortinha de limão - 126g",
+        "bolacha trakinas tortinha de limao - 126g",
+        "trakinas limao 126g"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 530,
+      "nome": "Bolacha Triunfo chocolate - 120g",
+      "palavras_chave": [
+        "bolacha triunfo chocolate - 120g",
+        "bolacha triunfo chocolate - 120g",
+        "triunfo",
+        "bolacha triunfo",
+        "triunfo chocolate",
+        "triunfo 120g"
+      ],
+      "preco": 2.98,
+      "unidade": "un"
+    },
+    {
+      "id": 429,
+      "nome": "Bolacha Triunfo morango - 120g",
+      "palavras_chave": [
+        "bolacha triunfo morango - 120g",
+        "bolacha triunfo morango - 120g",
+        "bolacha triunfo",
+        "triunfo morango"
+      ],
+      "preco": 2.98,
+      "unidade": "un"
+    },
+    {
+      "id": 247,
+      "nome": "Bolo Choco Boy Panco - 300g",
+      "palavras_chave": [
+        "bolo choco boy panco - 300g",
+        "bolo choco boy panco - 300g",
+        "bolo",
+        "bolo choco",
+        "choco boy",
+        "boy panco",
+        "bolo panco 300g"
+      ],
+      "preco": 15.95,
+      "unidade": "un"
+    },
+    {
+      "id": 228,
+      "nome": "Bolo Pullman - Gotas de chocolate - 250g",
+      "palavras_chave": [
+        "bolo pullman - gotas de chocolate - 250g",
+        "bolo pullman - gotas de chocolate - 250g",
+        "bolo pullman gotas",
+        "bolo pullman",
+        "pullman gotas",
+        "pullman chocolate 250g"
+      ],
+      "preco": 13.47,
+      "unidade": "un"
+    },
+    {
+      "id": 451,
+      "nome": "Bolo sabor chocolate Kim - 300g",
+      "palavras_chave": [
+        "bolo sabor chocolate kim - 300g",
+        "bolo sabor chocolate kim - 300g",
+        "bolo kim",
+        "bolo sabor kim",
+        "sabor chocolate",
+        "bolo chocolate kim",
+        "bolo kim 300g"
+      ],
+      "preco": 9.97,
+      "unidade": "un"
+    },
+    {
+      "id": 207,
+      "nome": "Bolo sabores - Panco - 300g",
+      "palavras_chave": [
+        "bolo sabores - panco - 300g",
+        "bolo panco - 300g",
+        "bolo laranja panco",
+	"bolo gotas panco 300g",
+	"bolo chocolate panco",
+	"bolo chocolate panco 300g",
+	"bolo laranja panco 300g",
+	"bolo abacaxi panco",
+	"bolo abacaxi panco 300g",
+        "bolo panco",
+        "panco 300g"
+      ],
+      "preco": 15.99,
+      "unidade": "un"
+    },
+    {
+      "id": 462,
+      "nome": "Bolo sabor Laranja Kim - 300g",
+      "palavras_chave": [
+        "bolo sabor laranja kim - 300g",
+        "bolo sabor laranja kim - 300g",
+        "bolo kim",
+        "laranja kim",
+        "kim 300g"
+      ],
+      "preco": 9.97,
+      "unidade": "un"
+    },
+    {
+      "id": 408,
+      "nome": "Bolo Sevenboys sabores - 30g",
+      "palavras_chave": [
+        "bolo sevenboys sabores - 30g",
+        "bolo sevenboys sabores - 30g",
+        "bolo sevenboys",
+        "sevenboys sabores",
+        "sabores 30g"
+      ],
+      "preco": 2.49,
+      "unidade": "un"
+    },
+    {
+      "id": 387,
+      "nome": "Bombom Lacta 250,6g",
+      "palavras_chave": [
+        "bombom lacta 250,6g",
+        "caixa de bombom lacta 250,6g",
+        "caixa de bombom lacta",
+        "bombom lacta",
+        "caixa lacta 250,6g"
+      ],
+      "preco": 23.93,
+      "unidade": "un"
+    },
+    {
+      "id": 243,
+      "nome": "Bombom nestle Especialidades 251g",
+      "palavras_chave": [
+        "bombom nestle especialidades 251g",
+        "bombom nestle especialidades 251g",
+        "caixa de bombom",
+        "caixa nestle",
+        "bombom especialidades",
+        "caixa de bombom 251g",
+        "caixa bombom nestle",
+        "nestle especialidades",
+        "bombom especialidades 251g"
+      ],
+      "preco": 28.99,
+      "unidade": "un"
+    },
+    {
+      "id": 484,
+      "nome": "Bombom ouro branco 20g",
+      "palavras_chave": [
+        "bombom ouro branco 20g",
+        "bombom ouro branco 20g",
+        "bombom",
+        "bombom ouro",
+        "ouro branco",
+        "branco 20g"
+      ],
+      "preco": 2.99,
+      "unidade": "un"
+    },
+    {
+      "id": 483,
+      "nome": "Bombom sonho de valsa 20g",
+      "palavras_chave": [
+        "bombom sonho de valsa 20g",
+        "bombom sonho de valsa 20g",
+        "bombom",
+        "sonho",
+        "de",
+        "valsa",
+        "20g",
+        "bombom sonho",
+        "sonho de",
+        "de valsa",
+        "valsa 20g"
+      ],
+      "preco": 2.99,
+      "unidade": "un"
+    },
+    {
+      "id": 130,
+      "nome": "Café 3 corações  - 250g",
+      "palavras_chave": [
+        "café 3 corações  - 250g",
+        "cafe 3 coracoes  - 250g",
+        "cafe 3 corações",
+        "cafe coracoes",
+        "coracoes 250g"
+      ],
+      "preco": 25.94,
+      "unidade": "un"
+    },
+    {
+      "id": 221,
+      "nome": "Café Gourmet 3 corações cerrado mineiro - 250g",
+      "palavras_chave": [
+        "café gourmet 3 corações cerrado mineiro - 250g",
+        "cafe gourmet 3 coracoes cerrado mineiro - 250g",
+        "cerrado",
+        "mineiro",
+        "cafe gourmet",
+        "gourmet coracoes",
+        "coracoes cerrado",
+        "cerrado mineiro",
+        "mineiro 250g"
+      ],
+      "preco": 26.83,
+      "unidade": "un"
+    },
+    {
+      "id": 291,
+      "nome": "Café Gourmet  Melitta Sul de Minas - 250g",
+      "palavras_chave": [
+        "café gourmet  melitta sul de minas - 250g",
+        "cafe gourmet  melitta sul de minas - 250g",
+        "cafe gourmet",
+        "gourmet melitta",
+        "melitta sul",
+        "minas 250g"
+      ],
+      "preco": 25.53,
+      "unidade": "un"
+    },
+    {
+      "id": 360,
+      "nome": "Café Melitta - 250g",
+      "palavras_chave": [
+        "café melitta - 250g",
+        "cafe melitta - 250g",
+        "cafe melitta",
+        "melitta 250g"
+      ],
+      "preco": 19.94,
+      "unidade": "un"
+    },
+    {
+      "id": 285,
+      "nome": "Café Pelé tradicional 250g",
+      "palavras_chave": [
+        "café pelé tradicional 250g",
+        "cafe pele tradicional 250g",
+        "cafe pele",
+        "pele tradicional",
+        "tradicional 250g"
+      ],
+      "preco": 25.93,
+      "unidade": "un"
+    },
+    {
+      "id": 199,
+      "nome": "Café Pilão tradicional 250g",
+      "palavras_chave": [
+        "café pilão tradicional 250g",
+        "cafe pilao tradicional 250g",
+        "cafe pilao",
+        "pilao tradicional",
+        "tradicional 250g"
+      ],
+      "preco": 24.93,
+      "unidade": "un"
+    },
+    {
+      "id": 257,
+      "nome": "Café Pilão tradicional 500g",
+      "palavras_chave": [
+        "café pilão tradicional 500g",
+        "cafe pilao tradicional 500g",
+        "cafe",
+        "cafe pilao",
+        "pilao tradicional",
+        "tradicional 500g"
+      ],
+      "preco": 26.72,
+      "unidade": "un"
+    },
+    {
+      "id": 298,
+      "nome": "Caixa de Cerveja Amstel 269ml - 12unidades",
+      "palavras_chave": [
+        "caixa de cerveja amstel 269ml - 12unidades",
+        "caixa de cerveja amstel 269ml - 12unidades",
+        "caixa de amstel",
+        "caixa de cerveja",
+        "cerveja amstel",
+        "amstel 269ml"
+      ],
+      "preco": 39.89,
+      "unidade": "un"
+    },
+    {
+      "id": 440,
+      "nome": "Calabresa defumada Aurora - 400g",
+      "palavras_chave": [
+        "calabresa defumada aurora - 400g",
+        "calabresa defumada aurora - 400g",
+        "calabresa defumada",
+        "defumada aurora",
+        "aurora 400g"
+      ],
+      "preco": 16.95,
+      "unidade": "un"
+    },
+    {
+      "id": 454,
+      "nome": "Calabresa defumada e cozida Frimesa - 450g",
+      "palavras_chave": [
+        "calabresa defumada e cozida frimesa - 450g",
+        "calabresa defumada e cozida frimesa - 450g",
+        "calabresa",
+        "calabresa defumada",
+        "defumada cozida",
+        "cozida frimesa",
+        "frimesa 450g"
+      ],
+      "preco": 18.94,
+      "unidade": "un"
+    },
+    {
+      "id": 506,
+      "nome": "Calabresa Pamplona - 400g",
+      "palavras_chave": [
+        "calabresa pamplona - 400g",
+        "calabresa pamplona - 400g",
+        "calabresa",
+        "pamplona",
+        "calabresa pamplona",
+        "pamplona 400g"
+      ],
+      "preco": 18.94,
+      "unidade": "un"
+    },
+    {
+      "id": 469,
+      "nome": "Calabresa Perdigão - 400g",
+      "palavras_chave": [
+        "calabresa perdigão - 400g",
+        "calabresa perdigao - 400g",
+        "calabresa perdigao",
+        "perdigao 400g"
+      ],
+      "preco": 18.94,
+      "unidade": "un"
+    },
+    {
+      "id": 496,
+      "nome": "Calabresa Seara - 400g",
+      "palavras_chave": [
+        "calabresa seara - 400g",
+        "calabresa seara - 400g",
+        "calabresa",
+        "calabresa seara",
+        "seara 400g"
+      ],
+      "preco": 18.94,
+      "unidade": "un"
+    },
+    {
+      "id": 466,
+      "nome": "Caldo sabor Bacon - Maggi - 57g",
+      "palavras_chave": [
+        "caldo sabor bacon - maggi - 57g",
+        "caldo sabor bacon - maggi 57g",
+        "maggi",
+        "caldo sabor",
+        "sabor bacon",
+        "bacon maggi",
+        "maggi 57g"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 353,
+      "nome": "Caldo sabor Carne - Maggi - 57g",
+      "palavras_chave": [
+        "caldo sabor carne - maggi - 57g",
+        "caldo sabor carne - maggi - 57g",
+        "caldo sabor",
+        "caldo sabor carne",
+        "caldo carne maggi",
+        "maggi 57g"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 465,
+      "nome": "Caldo sabor Legumes - Maggi - 57g",
+      "palavras_chave": [
+        "caldo sabor legumes - maggi - 57g",
+        "caldo sabor legumes - maggi - 57g",
+        "caldo sabor",
+        "sabor legumes",
+        "legumes maggi",
+        "maggi 57g"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 332,
+      "nome": "Carvão de churrasco 2Kg",
+      "palavras_chave": [
+        "carvão de churrasco 2kg",
+        "carvao de churrasco 2kg",
+        "carvao",
+        "churrasco 2kg"
+      ],
+      "preco": 24.93,
+      "unidade": "un"
+    },
+    {
+      "id": 417,
+      "nome": "Casa e perfume - 500ml",
+      "palavras_chave": [
+        "casa e perfume - 500ml",
+        "casa e perfume - 500ml",
+        "casa e perfume",
+        "perfume 500ml"
+      ],
+      "preco": 9.48,
+      "unidade": "un"
+    },
+    {
+      "id": 300,
+      "nome": "Cebolitos - 82g",
+      "palavras_chave": [
+        "cebolitos - 82g",
+        "cebolitos - 82g",
+        "cebolitos",
+        "cebolitos 82g"
+      ],
+      "preco": 11.56,
+      "unidade": "un"
+    },
+    {
+      "id": 147,
+      "nome": "Cerveja Amstel - 269ml",
+      "palavras_chave": [
+        "cerveja amstel - 269ml",
+        "cerveja amstel - 269ml",
+        "cerveja amstel",
+        "amstel 269ml"
+      ],
+      "preco": 4.99,
+      "unidade": "un"
+    },
+    {
+      "id": 40,
+      "nome": "Cerveja Brahma duplo malte - 269ml",
+      "palavras_chave": [
+        "cerveja brahma duplo malte - 269ml",
+        "cerveja brahma duplo malte - 269ml",
+        "brahma",
+        "duplo",
+        "cerveja brahma",
+        "brahma duplo",
+        "duplo malte",
+        "malte 269ml"
+      ],
+      "preco": 4.47,
+      "unidade": "un"
+    },
+    {
+      "id": 377,
+      "nome": "Cerveja Budweiser - 330ml",
+      "palavras_chave": [
+        "cerveja budweiser - 330ml",
+        "cerveja budweiser - 330ml",
+        "cerveja budweiser",
+        "budweiser 330ml"
+      ],
+      "preco": 7.18,
+      "unidade": "un"
+    },
+    {
+      "id": 22,
+      "nome": "Cerveja Corona - 330ml",
+      "palavras_chave": [
+        "cerveja corona - 330ml",
+        "cerveja corona - 330ml",
+        "cerveja corona",
+        "corona 330ml"
+      ],
+      "preco": 8.97,
+      "unidade": "un"
+    },
+    {
+      "id": 113,
+      "nome": "Cerveja Eisenbahn - 355ml",
+      "palavras_chave": [
+        "cerveja eisenbahn - 355ml",
+        "cerveja eisenbahn - 355ml",
+        "cerveja",
+        "cerveja eisenbahn",
+        "eisenbahn 355ml"
+      ],
+      "preco": 7.48,
+      "unidade": "un"
+    },
+    {
+      "id": 14,
+      "nome": "Cerveja Heineken - 269ml",
+      "palavras_chave": [
+        "cerveja heineken - 269ml",
+        "cerveja heineken - 269ml",
+        "cerveja heineken 269ml",
+        "cerveja heineken",
+        "heineken 269ml"
+      ],
+      "preco": 6.59,
+      "unidade": "un"
+    },
+    {
+      "id": 111,
+      "nome": "Cerveja Heineken - 330ml",
+      "palavras_chave": [
+        "cerveja heineken - 330ml",
+        "cerveja heineken 330ml",
+        "cerveja",
+        "heineken",
+        "cerveja heineken",
+        "heineken 330ml"
+      ],
+      "preco": 9.99,
+      "unidade": "un"
+    },
+    {
+      "id": 503,
+      "nome": "Cerveja Heineken Zero - 269ml",
+      "palavras_chave": [
+        "cerveja heineken zero - 269ml",
+        "cerveja heineken zero 269ml",
+        "cerveja zero 269ml",
+        "heineken zero 269ml",
+        "cerveja heineken",
+        "heineken zero",
+        "zero 269ml"
+      ],
+      "preco": 6.59,
+      "unidade": "un"
+    },
+    {
+      "id": 110,
+      "nome": "Cerveja Heineken Zero - 330ml",
+      "palavras_chave": [
+        "cerveja heineken zero - 330ml",
+        "cerveja heineken zero 330ml",
+        "cerveja zero",
+        "heineken zero",
+        "cerveja heineken zero",
+        "heineken zero 330ml",
+        "zero 330ml"
+      ],
+      "preco": 9.99,
+      "unidade": "un"
+    },
+    {
+      "id": 70,
+      "nome": "Cerveja Itaipava - 269ml",
+      "palavras_chave": [
+        "cerveja itaipava - 269ml",
+        "cerveja itaipava - 269ml",
+        "cerveja itaipava",
+        "itaipava 269ml"
+      ],
+      "preco": 3.18,
+      "unidade": "un"
+    },
+    {
+      "id": 532,
+      "nome": "Cerveja original - 269ml",
+      "palavras_chave": [
+        "cerveja original - 269ml",
+        "cerveja original - 269ml",
+        "original",
+        "cerveja original",
+        "original 269ml"
+      ],
+      "preco": 5.09,
+      "unidade": "un"
+    },
+    {
+      "id": 270,
+      "nome": "Cerveja Original - 300ml",
+      "palavras_chave": [
+        "cerveja original - 300ml",
+        "cerveja original - 300ml",
+        "cerveja original",
+        "original 300ml"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 146,
+      "nome": "Cerveja Petra - 269ml",
+      "palavras_chave": [
+        "cerveja petra - 269ml",
+        "cerveja petra - 269ml",
+        "cerveja petra",
+        "petra 269ml"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 159,
+      "nome": "Cerveja Skol - 269ml",
+      "palavras_chave": [
+        "cerveja skol - 269ml",
+        "cerveja skol - 269ml",
+        "cerveja skol",
+        "skol 269ml"
+      ],
+      "preco": 4.69,
+      "unidade": "un"
+    },
+    {
+      "id": 145,
+      "nome": "Cerveja Stella Artois  -  269ml",
+      "palavras_chave": [
+        "cerveja stella artois - 269ml",
+        "cerveja stella artois  269ml",
+        "cerveja stella",
+        "stella artois",
+        "artois 269ml"
+      ],
+      "preco": 4.49,
+      "unidade": "un"
+    },
+    {
+      "id": 357,
+      "nome": "Chambinho morango - 100g",
+      "palavras_chave": [
+        "chambinho morango - 100g",
+        "chambinho morango - 100g",
+        "chambinho",
+        "chambinho morango",
+        "morango 100g"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 148,
+      "nome": "Chamyto de morango com ceral chocolate 130g",
+      "palavras_chave": [
+        "chamyto de morango com ceral chocolate 130g",
+        "chamyto de morango com ceral chocolate 130g",
+        "ceral chocolate",
+        "chocolate 130g"
+      ],
+      "preco": 4.19,
+      "unidade": "un"
+    },
+    {
+      "id": 45,
+      "nome": "Chamyto Morango com confeitos -130g",
+      "palavras_chave": [
+        "chamyto morango com confeitos -130g",
+        "chamyto morango com confeitos -130g",
+        "chamyto morango"
+      ],
+      "preco": 4.19,
+      "unidade": "un"
+    },
+    {
+      "id": 29,
+      "nome": "Cheetos Crunchy cheddar - 48g",
+      "palavras_chave": [
+        "cheetos crunchy cheddar - 48g",
+        "cheetos crunchy cheddar - 48g",
+        "cheetos crunchy 48g",
+        "crunchy cheddar 48g",
+        "cheddar 48g"
+      ],
+      "preco": 4.89,
+      "unidade": "un"
+    },
+    {
+      "id": 420,
+      "nome": "Cheetos Crunchy super cheddar 160g",
+      "palavras_chave": [
+        "cheetos crunchy super cheddar 160g",
+        "cheetos crunchy super cheddar 160g",
+        "cheetos",
+        "crunchy",
+        "cheetos crunchy",
+        "crunchy super",
+        "super cheddar",
+        "cheddar 160g"
+      ],
+      "preco": 17.95,
+      "unidade": "un"
+    },
+    {
+      "id": 30,
+      "nome": "Cheetos Crunchy super cheddar 48g",
+      "palavras_chave": [
+        "cheetos crunchy super cheddar 48g",
+        "cheetos crunchy super cheddar 48g",
+        "cheetos crunchy 48g",
+        "crunchy super 48g",
+        "super cheddar 48g",
+        "cheddar 48g"
+      ],
+      "preco": 4.89,
+      "unidade": "un"
+    },
+    {
+      "id": 210,
+      "nome": "Cheetos Crunchy super cheddar - 78g",
+      "palavras_chave": [
+        "cheetos crunchy super cheddar - 78g",
+        "cheetos crunchy super cheddar - 78g",
+        "cheetos crunchy 78g",
+        "crunchy super 78g",
+        "super cheddar 78g",
+        "cheddar 78g"
+      ],
+      "preco": 9.87,
+      "unidade": "un"
+    },
+    {
+      "id": 209,
+      "nome": "Cheetos Crunchy white cheddar - 78g",
+      "palavras_chave": [
+        "cheetos crunchy white cheddar - 78g",
+        "cheetos crunchy white cheddar - 78g",
+        "cheetos crunchy 78g",
+        "crunchy white 78g",
+        "white cheddar 78g",
+        "cheddar 78g"
+      ],
+      "preco": 9.87,
+      "unidade": "un"
+    },
+    {
+      "id": 236,
+      "nome": "Cheetos Mix - 82g",
+      "palavras_chave": [
+        "cheetos mix - 82g",
+        "cheetos mix - 82g",
+        "cheetos 82g",
+        "cheetos mix",
+        "mix 82g"
+      ],
+      "preco": 13.96,
+      "unidade": "un"
+    },
+    {
+      "id": 297,
+      "nome": "Cheetos Mix queijo - 36g",
+      "palavras_chave": [
+        "cheetos mix queijo - 36g",
+        "cheetos mix queijo - 36g",
+        "cheetos mix 36g",
+        "mix queijo 36g",
+        "queijo 36g"
+      ],
+      "preco": 4.79,
+      "unidade": "un"
+    },
+    {
+      "id": 379,
+      "nome": "Cheetos Mix queijos - 130g",
+      "palavras_chave": [
+        "cheetos mix queijos - 130g",
+        "cheetos mix queijos - 130g",
+        "cheetos 130g",
+        "cheetos mix 130g",
+        "mix queijos 130g",
+        "queijos 130g"
+      ],
+      "preco": 17.95,
+      "unidade": "un"
+    },
+    {
+      "id": 191,
+      "nome": "Cheetos parmesão - 105g",
+      "palavras_chave": [
+        "cheetos parmesão - 105g",
+        "cheetos parmesao - 105g",
+        "cheetos parmesao 105g",
+        "parmesao 105g"
+      ],
+      "preco": 13.96,
+      "unidade": "un"
+    },
+    {
+      "id": 397,
+      "nome": "Cheetos parmesão - 143g",
+      "palavras_chave": [
+        "cheetos parmesão - 143g",
+        "cheetos parmesao - 143g",
+        "cheetos 143g",
+        "cheetos parmesao",
+        "parmesao 143g"
+      ],
+      "preco": 17.95,
+      "unidade": "un"
+    },
+    {
+      "id": 28,
+      "nome": "Cheetos parmesão - 35g",
+      "palavras_chave": [
+        "cheetos parmesão - 35g",
+        "cheetos parmesao - 35g",
+        "cheetos 35g",
+        "cheetos parmesao 35g",
+        "parmesao 35g"
+      ],
+      "preco": 4.79,
+      "unidade": "un"
+    },
+    {
+      "id": 389,
+      "nome": "Cheetos queijo suiço - 125g",
+      "palavras_chave": [
+        "cheetos queijo suiço - 125g",
+        "cheetos queijo suico - 125g",
+        "suico 125g"
+      ],
+      "preco": 17.95,
+      "unidade": "un"
+    },
+    {
+      "id": 197,
+      "nome": "Cheetos queijo suiço - 33g",
+      "palavras_chave": [
+        "cheetos queijo suiço - 33g",
+        "cheetos queijo suico - 33g",
+        "suico 33g"
+      ],
+      "preco": 4.79,
+      "unidade": "un"
+    },
+    {
+      "id": 189,
+      "nome": "Cheetos requeijão - 105g",
+      "palavras_chave": [
+        "cheetos requeijão - 105g",
+        "cheetos requeijao 105g",
+        "cheetos 105g",
+        "cheetos requeijao",
+        "requeijao 105g"
+      ],
+      "preco": 13.96,
+      "unidade": "un"
+    },
+    {
+      "id": 286,
+      "nome": "Cheetos requeijão - 160g",
+      "palavras_chave": [
+        "cheetos requeijão - 160g",
+        "cheetos requeijao - 160g",
+        "cheetos",
+        "requeijao",
+        "160g",
+        "cheetos requeijao",
+        "requeijao 160g"
+      ],
+      "preco": 17.95,
+      "unidade": "un"
+    },
+    {
+      "id": 27,
+      "nome": "Cheetos requeijão - 40g",
+      "palavras_chave": [
+        "cheetos requeijão - 40g",
+        "cheetos requeijao 40g",
+        "requeijao 40g"
+      ],
+      "preco": 4.79,
+      "unidade": "un"
+    },
+    {
+      "id": 196,
+      "nome": "Cheetos requeijão - 75g",
+      "palavras_chave": [
+        "cheetos requeijão - 75g",
+        "cheetos requeijao - 75g",
+        "cheetos requeijao 75g"
+      ],
+      "preco": 9.87,
+      "unidade": "un"
+    },
+    {
+      "id": 272,
+      "nome": "Chicletes Fini ovos de dinossauros - 80g",
+      "palavras_chave": [
+        "chicletes fini ovos de dinossauros - 80g",
+        "chicletes fini ovos de dinossauros 80g",
+        "chicletes dinossauros 80g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 495,
+      "nome": "Chiclete trident menta 8g",
+      "palavras_chave": [
+        "chiclete trident menta 8g",
+        "chiclete trident menta 8g",
+        "chiclete",
+        "trident",
+        "chiclete trident",
+        "trident menta",
+        "menta 8g"
+      ],
+      "preco": 3.49,
+      "unidade": "un"
+    },
+    {
+      "id": 516,
+      "nome": "Chiclete trident Tutti-fruti 8g",
+      "palavras_chave": [
+        "chiclete trident tutti-fruti 8g",
+        "chiclete trident tutti-fruti 8g",
+        "chiclete",
+        "trident",
+        "chiclete trident",
+        "trident tutti",
+        "tutti fruti",
+        "fruti 8g"
+      ],
+      "preco": 3.49,
+      "unidade": "un"
+    },
+    {
+      "id": 447,
+      "nome": "Choco biscoito Bauducco 80g",
+      "palavras_chave": [
+        "choco biscoito bauducco 80g",
+        "choco biscoito bauducco 80g",
+        "choco biscoito",
+        "biscoito bauducco",
+        "bauducco 80g"
+      ],
+      "preco": 9.97,
+      "unidade": "un"
+    },
+    {
+      "id": 378,
+      "nome": "Choco biscoito Nestlé 78g",
+      "palavras_chave": [
+        "choco biscoito nestlé 78g",
+        "choco biscoito nestle 78g",
+        "choco biscoito",
+        "biscoito nestle",
+        "nestle 78g"
+      ],
+      "preco": 9.97,
+      "unidade": "un"
+    },
+    {
+      "id": 154,
+      "nome": "Chocolate ao leite Kit Kat - 41,5g",
+      "palavras_chave": [
+        "chocolate ao leite kit kat - 41,5g",
+        "chocolate ao leite kit kat - 41,5g",
+        "kit kat",
+        "kat 41,5g"
+      ],
+      "preco": 5.49,
+      "unidade": "un"
+    },
+    {
+      "id": 94,
+      "nome": "Chocolate ao leite Suflair - 80g",
+      "palavras_chave": [
+        "chocolate ao leite suflair - 80g",
+        "chocolate ao leite suflair - 80g",
+        "barra suflair ",
+        "suflair ao leite",
+        "leite suflair",
+        "suflair 80g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 152,
+      "nome": "Chocolate branco Kit Kat - 41,5g",
+      "palavras_chave": [
+        "chocolate branco kit kat - 41,5g",
+        "chocolate branco kit kat - 41,5g",
+        "kit kat chocolate branco",
+        "branco kit",
+        "kit kat",
+        "kat 41,5g"
+      ],
+      "preco": 5.49,
+      "unidade": "un"
+    },
+    {
+      "id": 95,
+      "nome": "Chocolate branco Trento - 16g",
+      "palavras_chave": [
+        "chocolate branco trento - 16g",
+        "chocolate branco trento 16g",
+        "trento chocolate branco",
+        "branco trento",
+        "trento 16g"
+      ],
+      "preco": 2.0,
+      "unidade": "un"
+    },
+    {
+      "id": 481,
+      "nome": "Chocolate Caribe Garoto - 28g",
+      "palavras_chave": [
+        "chocolate caribe garoto - 28g",
+        "chocolate caribe garoto - 28g",
+        "caribe",
+        "chocolate caribe",
+        "caribe garoto",
+        "garoto 28g"
+      ],
+      "preco": 5.98,
+      "unidade": "un"
+    },
+    {
+      "id": 170,
+      "nome": "Chocolate Chokito Nestlé  - 32g",
+      "palavras_chave": [
+        "chocolate chokito nestlé  - 32g",
+        "chocolate chokito nestle  - 32g",
+        "chokito",
+        "chocolate chokito",
+        "chokito nestle",
+        "nestle 32g"
+      ],
+      "preco": 2.98,
+      "unidade": "un"
+    },
+    {
+      "id": 476,
+      "nome": "Chocolate leite moça Nestle - 38g",
+      "palavras_chave": [
+        "chocolate leite moça nestle - 38g",
+        "chocolate leite moca nestle 38g",
+        "chocolate leite moça",
+        "leite moca",
+        "moca nestle",
+        "nestle 38g"
+      ],
+      "preco": 5.98,
+      "unidade": "un"
+    },
+    {
+      "id": 515,
+      "nome": "Chocolate limão Kit Kat - 41,5g",
+      "palavras_chave": [
+        "chocolate limão kit kat - 41,5g",
+        "chocolate limao kit kat - 41,5g",
+        "chocolate limao",
+        "limao kit",
+        "kit kat",
+        "kat 41,5g"
+      ],
+      "preco": 5.49,
+      "unidade": "un"
+    },
+    {
+      "id": 171,
+      "nome": "Chocolate meio amargo Kit Kat Dark - 41,5g",
+      "palavras_chave": [
+        "chocolate meio amargo kit kat dark - 41,5g",
+        "chocolate meio amargo kit kat dark - 41,5g",
+        "chocolate meio amargo kit kat",
+        "kit kat meio amargo",
+        "amargo kit",
+        "kit kat",
+        "kat dark",
+        "dark 41,5g"
+      ],
+      "preco": 5.49,
+      "unidade": "un"
+    },
+    {
+      "id": 514,
+      "nome": "Chocolate morango Kit Kat - 41,5g",
+      "palavras_chave": [
+        "chocolate morango kit kat - 41,5g",
+        "chocolate morango kit kat - 41,5g",
+        "kit kat morango",
+        "morango kit",
+        "kit kat",
+        "kat 41,5g"
+      ],
+      "preco": 5.49,
+      "unidade": "un"
+    },
+    {
+      "id": 382,
+      "nome": "Chocolate Moranguete - 13g",
+      "palavras_chave": [
+        "chocolate moranguete - 13g",
+        "chocolate moranguete - 13g",
+        "moranguete",
+        "chocolate moranguete",
+        "moranguete 13g"
+      ],
+      "preco": 1.99,
+      "unidade": "un"
+    },
+    {
+      "id": 534,
+      "nome": "Chocolate Moranguete - 25g",
+      "palavras_chave": [
+        "chocolate moranguete - 25g",
+        "chocolate moranguete - 25g",
+        "chocolate moranguete",
+        "moranguete 25g"
+      ],
+      "preco": 2.8,
+      "unidade": "un"
+    },
+    {
+      "id": 327,
+      "nome": "Chocolate sensação Nestle - 38g",
+      "palavras_chave": [
+        "chocolate sensação nestle - 38g",
+        "chocolate sensacao nestle - 38g",
+        "sensacao",
+        "chocolate sensacao",
+        "sensacao nestle",
+        "nestle 38g"
+      ],
+      "preco": 5.28,
+      "unidade": "un"
+    },
+    {
+      "id": 96,
+      "nome": "Chocolate Tortuga brigadeiro - 15.5g",
+      "palavras_chave": [
+        "chocolate tortuga brigadeiro - 15.5g",
+        "chocolate tortuga brigadeiro - 15.5g",
+        "tortuga",
+        "chocolate tortuga",
+        "tortuga brigadeiro",
+        "brigadeiro 15.5g"
+      ],
+      "preco": 2.6,
+      "unidade": "un"
+    },
+    {
+      "id": 381,
+      "nome": "Chocolate Trento Limão - 29g",
+      "palavras_chave": [
+        "chocolate trento limão - 29g",
+        "chocolate trento limao - 29g",
+        "chocolate trento 28g",
+        "trento limao 28g",
+        "limao 29g"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 93,
+      "nome": "Chocolate Twix original - 15g",
+      "palavras_chave": [
+        "chocolate twix original - 15g",
+        "chocolate twix original - 15g",
+        "twix",
+        "chocolate twix",
+        "twix original",
+        "original 15g"
+      ],
+      "preco": 2.5,
+      "unidade": "un"
+    },
+    {
+      "id": 361,
+      "nome": "Chocotone Bauducco - 400g",
+      "palavras_chave": [
+        "chocotone bauducco - 400g",
+        "chocotone bauducco 400g",
+        "chocotone 400g",
+        "chocotone bauducco",
+        "bauducco 400g"
+      ],
+      "preco": 28.99,
+      "unidade": "un"
+    },
+    {
+      "id": 511,
+      "nome": "Chocotone Bauducco - 80g",
+      "palavras_chave": [
+        "chocotone bauducco - 80g",
+        "chocotone bauducco 80g",
+        "chocotone 80g",
+        "bauducco 80g"
+      ],
+      "preco": 12.99,
+      "unidade": "un"
+    },
+    {
+      "id": 16,
+      "nome": "Chopp de vinho Draft Line - 600ml",
+      "palavras_chave": [
+        "chopp de vinho draft line - 600ml",
+        "chopp de vinho draft line - 600ml",
+        "chopp",
+        "draft",
+        "vinho draft",
+        "draft line",
+        "line 600ml"
+      ],
+      "preco": 15.95,
+      "unidade": "un"
+    },
+    {
+      "id": 488,
+      "nome": "Chumichurri Kisabor - 15g",
+      "palavras_chave": [
+        "chumichurri kisabor - 15g",
+        "chumichurri kisabor - 15g",
+        "chumichurri",
+        "chumichurri kisabor",
+        "kisabor 15g"
+      ],
+      "preco": 6.97,
+      "unidade": "un"
+    },
+    {
+      "id": 504,
+      "nome": "Chumichurri Terrinha - 20g",
+      "palavras_chave": [
+        "chumichurri terrinha - 20g",
+        "chumichurri terrinha - 20g",
+        "chumichurri terrinha",
+        "terrinha 20g"
+      ],
+      "preco": 5.28,
+      "unidade": "un"
+    },
+    {
+      "id": 150,
+      "nome": "Coalhada Itambe integral 170g",
+      "palavras_chave": [
+        "coalhada itambe integral 170g",
+        "coalhada itambe integral 170g",
+        "coalhada",
+        "coalhada itambe",
+        "itambe integral",
+        "integral 170g"
+      ],
+      "preco": 4.59,
+      "unidade": "un"
+    },
+    {
+      "id": 214,
+      "nome": "Coco ralado umido Ducoco - 50g",
+      "palavras_chave": [
+        "coco ralado umido ducoco - 50g",
+        "coco ralado umido ducoco - 50g",
+        "ralado umido",
+        "umido ducoco",
+        "ducoco 50g"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 271,
+      "nome": "Coco ralado umido Mais coco - 50g",
+      "palavras_chave": [
+        "coco ralado umido mais coco - 50g",
+        "coco ralado umido mais coco - 50g",
+        "coco ralado",
+        "ralado umido",
+        "umido mais",
+        "mais coco",
+        "coco 50g"
+      ],
+      "preco": 7.48,
+      "unidade": "un"
+    },
+    {
+      "id": 471,
+      "nome": "Cola Three Bond Super1000 - 2g",
+      "palavras_chave": [
+        "cola three bond super1000 - 2g",
+        "cola three bond super1000 - 2g",
+        "super bond",
+        "super1000",
+        "cola three",
+        "three bond",
+        "bond super1000",
+        "super1000 2g"
+      ],
+      "preco": 4.99,
+      "unidade": "un"
+    },
+    {
+      "id": 526,
+      "nome": "Cookies Bauducco 100g",
+      "palavras_chave": [
+        "cookies bauducco 100g",
+        "cookies bauducco 100g",
+        "cookies",
+        "cookies bauducco",
+        "bauducco 100g"
+      ],
+      "preco": 8.99,
+      "unidade": "un"
+    },
+    {
+      "id": 178,
+      "nome": "Cookies Nestlé 60g",
+      "palavras_chave": [
+        "cookies nestlé 60g",
+        "cookies nestle 60g",
+        "cookies nestle",
+        "nestle 60g"
+      ],
+      "preco": 5.68,
+      "unidade": "un"
+    },
+    {
+      "id": 540,
+      "nome": "Cookies Toddy 57g",
+      "palavras_chave": [
+        "cookies toddy 57g",
+        "cookies toddy 57g",
+        "cookies toddy",
+        "toddy 57g"
+      ],
+      "preco": 5.68,
+      "unidade": "un"
+    },
+    {
+      "id": 498,
+      "nome": "Coxa de frango Sadia - 1Kg",
+      "palavras_chave": [
+        "coxa de frango sadia - 1kg",
+        "coxa de frango sadia - 1kg",
+        "coxa",
+        "coxa de frango 1 Kg",
+        "frango sadia 1Kg",
+        "sadia 1kg"
+      ],
+      "preco": 16.95,
+      "unidade": "un"
+    },
+    {
+      "id": 107,
+      "nome": "Coxa de frango Seara - 1Kg",
+      "palavras_chave": [
+        "coxa de frango seara - 1kg",
+        "coxa de frango seara 1kg",
+        "frango seara",
+        "seara 1kg"
+      ],
+      "preco": 16.95,
+      "unidade": "un"
+    },
+    {
+      "id": 244,
+      "nome": "Coxa de frango temperada Sadia - 800g",
+      "palavras_chave": [
+        "coxa de frango temperada sadia - 800g",
+        "coxa de frango temperada sadia - 800g",
+        "frango temperada",
+        "temperada sadia",
+        "sadia 800g"
+      ],
+      "preco": 15.45,
+      "unidade": "un"
+    },
+    {
+      "id": 248,
+      "nome": "Creme de leite Italac- 200g",
+      "palavras_chave": [
+        "creme de leite italac- 200g",
+        "creme de leite italac- 200g",
+        "leite italac",
+        "creme de leite",
+        "italac 200g"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 363,
+      "nome": "Creme de leite Paulista - 200g",
+      "palavras_chave": [
+        "creme de leite paulista - 200g",
+        "creme de leite paulista - 200g",
+        "creme de leite paulista",
+        "paulista 200g"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 134,
+      "nome": "Creme de leite Piracanjuba - 200g",
+      "palavras_chave": [
+        "creme de leite piracanjuba - 200g",
+        "creme de leite piracanjuba 200g",
+        "creme de leite piracanjuba",
+        "piracanjuba 200g"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 78,
+      "nome": "Creme dental Colgate - 90g",
+      "palavras_chave": [
+        "creme dental colgate - 90g",
+        "creme dental colgate - 90g",
+        "colgate",
+        "creme dental",
+        "dental colgate",
+        "colgate 90g"
+      ],
+      "preco": 7.78,
+      "unidade": "un"
+    },
+    {
+      "id": 79,
+      "nome": "Creme dental  Oral B - 70g",
+      "palavras_chave": [
+        "creme dental  oral b - 70g",
+        "creme dental  oral b - 70g",
+        "oral",
+        "creme dental",
+        "dental oral",
+        "oral 70g"
+      ],
+      "preco": 7.18,
+      "unidade": "un"
+    },
+    {
+      "id": 49,
+      "nome": "Cup Noodles Sabores - 69g",
+      "palavras_chave": [
+        "cup noodles sabores - 69g",
+        "cup noodles sabores - 69g",
+        "noodles",
+        "cup noodles",
+        "noodles sabores",
+        "sabores 69g"
+      ],
+      "preco": 8.99,
+      "unidade": "un"
+    },
+    {
+      "id": 2,
+      "nome": "Detergente Limpol",
+      "palavras_chave": [
+        "detergente limpol",
+        "detergente limpol",
+        "limpol"
+      ],
+      "preco": 3.69,
+      "unidade": "un"
+    },
+    {
+      "id": 241,
+      "nome": "Detergente Minuano - Neutro",
+      "palavras_chave": [
+        "detergente minuano - neutro",
+        "detergente minuano - neutro",
+        "minuano",
+        "detergente minuano",
+        "minuano neutro"
+      ],
+      "preco": 3.69,
+      "unidade": "un"
+    },
+    {
+      "id": 212,
+      "nome": "Detergente Ype - Neutro",
+      "palavras_chave": [
+        "detergente ype - neutro",
+        "detergente ype - neutro",
+        "detergente",
+        "ype",
+        "detergente ype",
+        "ype neutro"
+      ],
+      "preco": 4.5,
+      "unidade": "un"
+    },
+    {
+      "id": 277,
+      "nome": "Doritos queijo nacho - 120g",
+      "palavras_chave": [
+        "doritos queijo nacho - 120g",
+        "doritos queijo nacho - 120g",
+        "doritos",
+        "doritos queijo",
+        "queijo nacho",
+        "nacho 120g"
+      ],
+      "preco": 17.95,
+      "unidade": "un"
+    },
+    {
+      "id": 188,
+      "nome": "Doritos queijo nacho - 75g",
+      "palavras_chave": [
+        "doritos queijo nacho - 75g",
+        "doritos queijo nacho 75g",
+        "doritos queijo 75g",
+        "queijo nacho 75g",
+        "nacho 75g"
+      ],
+      "preco": 13.96,
+      "unidade": "un"
+    },
+    {
+      "id": 235,
+      "nome": "Doritos Sweet chili - 75g",
+      "palavras_chave": [
+        "doritos sweet chili - 75g",
+        "doritos sweet chili - 75g",
+        "doritos sweet 75g",
+        "sweet chili 75g",
+        "chili 75g"
+      ],
+      "preco": 11.86,
+      "unidade": "un"
+    },
+    {
+      "id": 405,
+      "nome": "Energético Monster Mango loco 473ml",
+      "palavras_chave": [
+        "energético monster mango loco 473ml",
+        "energetico monster mango loco 473ml",
+        "mangoloco",
+        "monster",
+        "energetico monster",
+        "monster mango",
+        "mango loco",
+        "loco 473ml"
+      ],
+      "preco": 13.96,
+      "unidade": "un"
+    },
+    {
+      "id": 151,
+      "nome": "Energético Redbull 250ml",
+      "palavras_chave": [
+        "energético redbull 250ml",
+        "energetico redbull 250ml",
+        "energetico",
+        "redbull",
+        "energetico redbull",
+        "redbull 250ml"
+      ],
+      "preco": 11.99,
+      "unidade": "un"
+    },
+    {
+      "id": 144,
+      "nome": "Energético Red bull tropical  - 269ml",
+      "palavras_chave": [
+        "energético red bull tropical  - 269ml",
+        "energetico red bull tropical  - 269ml",
+        "energetico red",
+        "red bull",
+        "bull tropical",
+        "tropical 269ml"
+      ],
+      "preco": 11.97,
+      "unidade": "un"
+    },
+    {
+      "id": 319,
+      "nome": "Ervilha em Conserva - 170g",
+      "palavras_chave": [
+        "ervilha em conserva - 170g",
+        "ervilha em conserva - 170g",
+        "conserva 170g"
+      ],
+      "preco": 2.98,
+      "unidade": "un"
+    },
+    {
+      "id": 456,
+      "nome": "Esponja de aço - 1 un",
+      "palavras_chave": [
+        "esponja de aço - 1 un",
+        "esponja de aco - 1 un",
+        "esponja",
+        "esponja de",
+        "de aco"
+      ],
+      "preco": 3.68,
+      "unidade": "un"
+    },
+    {
+      "id": 119,
+      "nome": "Esponja multiuso  - 1 un",
+      "palavras_chave": [
+        "esponja multiuso  - 1 un",
+        "esponja multiuso  - 1 un",
+        "esponja multiuso"
+      ],
+      "preco": 2.49,
+      "unidade": "un"
+    },
+    {
+      "id": 301,
+      "nome": "Fandangos presunto - 105g",
+      "palavras_chave": [
+        "fandangos presunto - 105g",
+        "fandangos presunto - 105g",
+        "fandangos 105g",
+        "fandangos presunto 105g",
+        "presunto 105g"
+      ],
+      "preco": 14.95,
+      "unidade": "un"
+    },
+    {
+      "id": 287,
+      "nome": "Fandangos presunto - 160g",
+      "palavras_chave": [
+        "fandangos presunto - 160g",
+        "fandangos presunto 160g",
+        "fandangos",
+        "fandangos presunto",
+        "presunto 160g"
+      ],
+      "preco": 17.95,
+      "unidade": "un"
+    },
+    {
+      "id": 25,
+      "nome": "Fandangos presunto - 35g",
+      "palavras_chave": [
+        "fandangos presunto - 35g",
+        "fandangos presunto - 35g",
+        "fandangos presunto 35g",
+        "presunto 35g"
+      ],
+      "preco": 4.29,
+      "unidade": "un"
+    },
+    {
+      "id": 296,
+      "nome": "Fandangos presunto - 60g",
+      "palavras_chave": [
+        "fandangos presunto - 60g",
+        "fandangos presunto - 60g",
+        "fandangos presunto 60g",
+        "presunto 60g"
+      ],
+      "preco": 6.87,
+      "unidade": "un"
+    },
+    {
+      "id": 237,
+      "nome": "Fandangos queijo - 105g",
+      "palavras_chave": [
+        "fandangos queijo - 105g",
+        "fandangos queijo - 105g",
+        "queijo 105g"
+      ],
+      "preco": 14.95,
+      "unidade": "un"
+    },
+    {
+      "id": 331,
+      "nome": "Fandangos queijo - 160g",
+      "palavras_chave": [
+        "fandangos queijo - 160g",
+        "fandangos queijo - 160g",
+        "fandangos queijo 160g",
+        "queijo 160g"
+      ],
+      "preco": 17.95,
+      "unidade": "un"
+    },
+    {
+      "id": 26,
+      "nome": "Fandangos queijo - 35g",
+      "palavras_chave": [
+        "fandangos queijo - 35g",
+        "fandangos queijo - 35g",
+        "fandangos queijo 35g",
+        "queijo 35g"
+      ],
+      "preco": 4.29,
+      "unidade": "un"
+    },
+    {
+      "id": 480,
+      "nome": "Farinha de Mandioca - 500g",
+      "palavras_chave": [
+        "farinha de mandioca - 500g",
+        "farinha de mandioca 500g",
+        "mandioca 500g"
+      ],
+      "preco": 5.68,
+      "unidade": "un"
+    },
+    {
+      "id": 479,
+      "nome": "Farinha de Rosca - 500g",
+      "palavras_chave": [
+        "farinha de rosca - 500g",
+        "farinha de rosca 500g",
+        "farinha de rosca",
+        "rosca 500g"
+      ],
+      "preco": 10.96,
+      "unidade": "un"
+    },
+    {
+      "id": 48,
+      "nome": "Farinha de trigo - 1Kg",
+      "palavras_chave": [
+        "farinha de trigo - 1kg",
+        "farinha de trigo 1kg",
+        "farinha de trigo tres coroas",
+        "trigo 1kg"
+      ],
+      "preco": 6.17,
+      "unidade": "un"
+    },
+    {
+      "id": 238,
+      "nome": "Farinha de trigo Dona Benta- 1Kg",
+      "palavras_chave": [
+        "farinha de trigo dona benta- 1kg",
+        "farinha de trigo dona benta- 1kg",
+        "farinha de trigo",
+        "trigo dona",
+        "farinha dona benta",
+        "benta 1kg"
+      ],
+      "preco": 10.35,
+      "unidade": "un"
+    },
+    {
+      "id": 308,
+      "nome": "Farinha de trigo Rosa Branca- 1Kg",
+      "palavras_chave": [
+        "farinha de trigo rosa branca- 1kg",
+        "farinha de trigo rosa branca- 1kg",
+        "trigo rosa",
+        "rosa branca",
+        "branca 1kg"
+      ],
+      "preco": 7.47,
+      "unidade": "un"
+    },
+    {
+      "id": 321,
+      "nome": "Farofa pronta 180g",
+      "palavras_chave": [
+        "farofa pronta 180g",
+        "farofa pronta 180g",
+        "farofa",
+        "farofa pronta",
+        "pronta 180g"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 6,
+      "nome": "Feijão carioca Camil -1Kg",
+      "palavras_chave": [
+        "feijão carioca camil -1kg",
+        "feijao carioca camil -1kg",
+        "feijao",
+        "carioca",
+        "feijao carioca",
+        "carioca camil",
+        "camil 1kg"
+      ],
+      "preco": 7.87,
+      "unidade": "un"
+    },
+    {
+      "id": 47,
+      "nome": "Fermento em pó químico Dona Benta -100g",
+      "palavras_chave": [
+        "fermento em pó químico dona benta -100g",
+        "fermento em po quimico dona benta -100g",
+        "fermento dona benta",
+        "quimico dona",
+        "benta 100g"
+      ],
+      "preco": 7.38,
+      "unidade": "un"
+    },
+    {
+      "id": 432,
+      "nome": "Fermento em pó químico Dr. Oetker -100g",
+      "palavras_chave": [
+        "fermento em pó químico dr. oetker -100g",
+        "fermento em po quimico dr. oetker -100g",
+        "fermento",
+        "fermento em pó",
+        "fermento dr. oetker",
+        "fermento oetker 100g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 422,
+      "nome": "Fermento em pó químico Royal -100g",
+      "palavras_chave": [
+        "fermento em pó químico royal -100g",
+        "fermento em po quimico royal -100g",
+        "fermento em po royal",
+        "royal 100g"
+      ],
+      "preco": 8.07,
+      "unidade": "un"
+    },
+    {
+      "id": 104,
+      "nome": "Filé de Merluza Seara - 500g",
+      "palavras_chave": [
+        "filé de merluza seara - 500g",
+        "file de merluza seara 500g",
+        "file de merluza",
+        "merluza seara",
+        "file de merluza 500g"
+      ],
+      "preco": 36.9,
+      "unidade": "un"
+    },
+    {
+      "id": 372,
+      "nome": "Filé de sobrecoxa Aurora - 800g",
+      "palavras_chave": [
+        "filé de sobrecoxa aurora - 800g",
+        "file de sobrecoxa aurora - 800g",
+        "file de sobrecoxa",
+        "sobrecoxa aurora",
+        "aurora 800g"
+      ],
+      "preco": 21.94,
+      "unidade": "un"
+    },
+    {
+      "id": 459,
+      "nome": "Filé de sobrecoxa Sadia - 800g",
+      "palavras_chave": [
+        "filé de sobrecoxa sadia - 800g",
+        "file de sobrecoxa sadia - 800g",
+        "de sobrecoxa",
+        "sobrecoxa sadia",
+        "sadia 800g"
+      ],
+      "preco": 23.93,
+      "unidade": "un"
+    },
+    {
+      "id": 399,
+      "nome": "Filme de PVC - 15m",
+      "palavras_chave": [
+        "filme de pvc - 15m",
+        "filme de pvc - 15m",
+        "pvc",
+        "filme de",
+        "de pvc",
+        "pvc 15m"
+      ],
+      "preco": 7.68,
+      "unidade": "un"
+    },
+    {
+      "id": 508,
+      "nome": "Filtro de papel 102 Brigitta - 30un",
+      "palavras_chave": [
+        "filtro de papel 102 brigitta - 30un",
+        "filtro de papel 102 brigitta - 30un",
+        "filtro",
+        "brigitta",
+        "filtro de",
+        "de papel",
+        "papel brigitta",
+        "brigitta 30un"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 65,
+      "nome": "Filtro de papel 103 Brigitta - 30un",
+      "palavras_chave": [
+        "filtro de papel 103 brigitta - 30un",
+        "filtro de papel 103 brigitta - 30un",
+        "brigitta",
+        "papel brigitta",
+        "brigitta 30un"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 166,
+      "nome": "Flocão de milho Maratá - 500g",
+      "palavras_chave": [
+        "flocão de milho maratá - 500g",
+        "flocao de milho marata - 500g",
+        "flocao",
+        "marata",
+        "flocao de",
+        "milho marata",
+        "marata 500g"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 278,
+      "nome": "Fofura sabores 60g",
+      "palavras_chave": [
+        "fofura sabores 60g",
+        "fofura sabores 60g",
+        "fofura",
+        "fofura sabores",
+        "sabores 60g"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 108,
+      "nome": "Frango a passarinho Sadia - 1Kg",
+      "palavras_chave": [
+        "frango a passarinho sadia - 1kg",
+        "frango a passarinho sadia - 1kg",
+        "frango",
+        "frango passarinho",
+        "passarinho sadia",
+        "sadia 1kg"
+      ],
+      "preco": 18.94,
+      "unidade": "un"
+    },
+    {
+      "id": 97,
+      "nome": "Freegells play cereja - 28g",
+      "palavras_chave": [
+        "freegells play cereja - 28g",
+        "freegells play cereja - 28g",
+        "freegells",
+        "freegells play",
+        "play cereja",
+        "cereja 28g"
+      ],
+      "preco": 2.0,
+      "unidade": "un"
+    },
+    {
+      "id": 98,
+      "nome": "Freegells play extra forte - 28g",
+      "palavras_chave": [
+        "freegells play extra forte - 28g",
+        "freegells play extra forte - 28g",
+        "freegells",
+        "freegells play",
+        "play extra",
+        "extra forte",
+        "forte 28g"
+      ],
+      "preco": 2.0,
+      "unidade": "un"
+    },
+    {
+      "id": 250,
+      "nome": "Fubá Mimoso - 500g",
+      "palavras_chave": [
+        "fubá mimoso - 500g",
+        "fuba mimoso - 500g",
+        "fuba",
+        "fuba mimoso",
+        "mimoso 500g"
+      ],
+      "preco": 4.68,
+      "unidade": "un"
+    },
+    {
+      "id": 67,
+      "nome": "Gatorade laranja - 500ml",
+      "palavras_chave": [
+        "gatorade laranja - 500ml",
+        "gatorade laranja - 500ml",
+        "gatorade",
+        "gatorade laranja",
+        "laranja 500ml"
+      ],
+      "preco": 9.99,
+      "unidade": "un"
+    },
+    {
+      "id": 398,
+      "nome": "Gatorade maracuja - 500ml",
+      "palavras_chave": [
+        "gatorade maracuja - 500ml",
+        "gatorade maracuja - 500ml",
+        "gatorade maracuja",
+        "maracuja 500ml"
+      ],
+      "preco": 9.99,
+      "unidade": "un"
+    },
+    {
+      "id": 328,
+      "nome": "Gatorade morango e maracuja- 500ml",
+      "palavras_chave": [
+        "gatorade morango e maracuja- 500ml",
+        "gatorade morango e maracuja- 500ml",
+        "gatorade morango",
+        "morango maracuja",
+        "maracuja 500ml"
+      ],
+      "preco": 9.99,
+      "unidade": "un"
+    },
+    {
+      "id": 66,
+      "nome": "Gatorade morango e melancia - 500ml",
+      "palavras_chave": [
+        "gatorade morango e melancia - 500ml",
+        "gatorade morango e melancia - 500ml",
+        "gatorade",
+        "gatorade morango",
+        "morango melancia",
+        "melancia 500ml"
+      ],
+      "preco": 9.99,
+      "unidade": "un"
+    },
+    {
+      "id": 132,
+      "nome": "Gelatina Dr Oetker Morango - 20g",
+      "palavras_chave": [
+        "gelatina dr oetker morango - 20g",
+        "gelatina dr oetker morango - 20g",
+        "gelatina",
+        "gelatina dr",
+        "dr oetker",
+        "oetker morango",
+        "morango 20g"
+      ],
+      "preco": 2.98,
+      "unidade": "un"
+    },
+    {
+      "id": 133,
+      "nome": "Gelatina Dr Oetker Uva 20g",
+      "palavras_chave": [
+        "gelatina dr oetker uva 20g",
+        "dr oetker",
+        "oetker uva",
+        "uva 20g"
+      ],
+      "preco": 2.98,
+      "unidade": "un"
+    },
+    {
+      "id": 172,
+      "nome": "Goma para tapioca Da terrinha - 500g",
+      "palavras_chave": [
+        "goma para tapioca da terrinha - 500g",
+        "goma para tapioca da terrinha - 500g",
+        "goma",
+        "tapioca",
+        "para tapioca",
+        "tapioca da",
+        "tapioca terrinha 500g"
+      ],
+      "preco": 8.97,
+      "unidade": "un"
+    },
+    {
+      "id": 215,
+      "nome": "Granulado Dori - 120g",
+      "palavras_chave": [
+        "granulado dori - 120g",
+        "granulado dori - 120g",
+        "granulado",
+        "granulado dori",
+        "dori 120g"
+      ],
+      "preco": 6.99,
+      "unidade": "un"
+    },
+    {
+      "id": 24,
+      "nome": "Guaraviton açai - 500ml",
+      "palavras_chave": [
+        "guaraviton açai - 500ml",
+        "guaraviton acai - 500ml",
+        "guaraviton",
+        "guaraviton acai",
+        "acai 500ml"
+      ],
+      "preco": 5.28,
+      "unidade": "un"
+    },
+    {
+      "id": 423,
+      "nome": "Guardanapo - 50 und",
+      "palavras_chave": [
+        "guardanapo - 50 und",
+        "guardanapo - 50 und",
+        "guardanapo"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 18,
+      "nome": "H2O Limão - 500ml",
+      "palavras_chave": [
+        "h2o limão - 500ml",
+        "h2o limao - 500ml",
+        "h2o",
+        "h2o limao",
+        "limao 500ml"
+      ],
+      "preco": 7.29,
+      "unidade": "un"
+    },
+    {
+      "id": 528,
+      "nome": "H2O Limoneto- 500ml",
+      "palavras_chave": [
+        "h2o limoneto- 500ml",
+        "h2o limoneto- 500ml",
+        "h2o",
+        "limoneto",
+        "h2o limoneto",
+        "limoneto 500ml"
+      ],
+      "preco": 7.29,
+      "unidade": "un"
+    },
+    {
+      "id": 367,
+      "nome": "Halls extra forte - 27,5g",
+      "palavras_chave": [
+        "halls extra forte - 27,5g",
+        "halls extra forte - 27,5g",
+        "halls",
+        "halls extra",
+        "extra forte",
+        "forte 27,5g"
+      ],
+      "preco": 2.98,
+      "unidade": "un"
+    },
+    {
+      "id": 324,
+      "nome": "Hamburguer Aurora Faroeste- 56g",
+      "palavras_chave": [
+        "hamburguer aurora faroeste- 56g",
+        "hamburguer aurora faroeste- 56g",
+        "hamburguer",
+        "hamburguer aurora",
+        "aurora faroeste",
+        "faroeste 56g"
+      ],
+      "preco": 2.88,
+      "unidade": "un"
+    },
+    {
+      "id": 439,
+      "nome": "Hamburguer Maturatta - 180g",
+      "palavras_chave": [
+        "hamburguer maturatta - 180g",
+        "hamburguer maturatta - 180g",
+        "hamburguer",
+        "hamburguer maturatta",
+        "maturatta 180g"
+      ],
+      "preco": 9.97,
+      "unidade": "un"
+    },
+    {
+      "id": 304,
+      "nome": "Hamburguer Perdigão - 56g",
+      "palavras_chave": [
+        "hamburguer perdigão - 56g",
+        "hamburguer perdigao - 56g",
+        "hamburguer perdigao",
+        "perdigao 56g"
+      ],
+      "preco": 2.88,
+      "unidade": "un"
+    },
+    {
+      "id": 100,
+      "nome": "Hamburguer Texas Burguer - 56g",
+      "palavras_chave": [
+        "hamburguer texas burguer - 56g",
+        "hamburguer texas",
+        "texas burguer",
+        "burguer 56g"
+      ],
+      "preco": 2.88,
+      "unidade": "un"
+    },
+    {
+      "id": 216,
+      "nome": "Hastes flexiveis cotonela - 75un",
+      "palavras_chave": [
+        "hastes flexiveis cotonela - 75un",
+        "hastes flexiveis cotonela - 75un",
+        "hastes flexiveis",
+        "flexiveis cotonela",
+        "cotonela 75un"
+      ],
+      "preco": 4.58,
+      "unidade": "un"
+    },
+    {
+      "id": 73,
+      "nome": "Hastes flexiveis cotonetes Jonshons - 75un",
+      "palavras_chave": [
+        "hastes flexiveis cotonetes jonshons - 75un",
+        "hastes flexiveis cotonetes jonshons - 75un",
+        "hastes flexiveis",
+        "hastes",
+        "flexiveis",
+        "cotonela",
+	"cotonete",
+        "flexiveis cotonetes",
+        "cotonetes jonshons",
+        "jonshons 75un"
+      ],
+      "preco": 6.88,
+      "unidade": "un"
+    },
+    {
+      "id": 262,
+      "nome": "Hastes flexiveis Cottonbaby - 75un",
+      "palavras_chave": [
+        "hastes flexiveis cottonbaby - 75un",
+        "hastes flexiveis cottonbaby - 75un",
+        "hastes flexiveis",
+        "flexiveis cottonbaby",
+        "cottonbaby 75un"
+      ],
+      "preco": 4.58,
+      "unidade": "un"
+    },
+    {
+      "id": 335,
+      "nome": "Hot bowls Macarrão Carbonara Sadia - 300g",
+      "palavras_chave": [
+        "hot bowls macarrão carbonara sadia - 300g",
+        "hot bowls macarrao carbonara sadia - 300g",
+        "hot bowls",
+        "bowls macarrao",
+        "macarrao carbonara",
+        "carbonara sadia",
+        "sadia 300g"
+      ],
+      "preco": 14.95,
+      "unidade": "un"
+    },
+    {
+      "id": 370,
+      "nome": "Hot bowls Macarrão com almôndegas Sadia - 300g",
+      "palavras_chave": [
+        "hot bowls macarrão com almôndegas sadia - 300g",
+        "hot bowls macarrao com almondegas sadia - 300g",
+        "hot bowls",
+        "bowls macarrao",
+        "macarrao com",
+        "com almondegas",
+        "almondegas sadia",
+        "sadia 300g"
+      ],
+      "preco": 15.99,
+      "unidade": "un"
+    },
+    {
+      "id": 371,
+      "nome": "Hot bowls Mac cheese cheddar Sadia - 300g",
+      "palavras_chave": [
+        "hot bowls mac cheese cheddar sadia - 300g",
+        "hot bowls mac cheese cheddar sadia - 300g",
+        "hot bowls",
+        "bowls mac",
+        "mac cheese",
+        "cheese cheddar",
+        "cheddar sadia",
+        "sadia 300g"
+      ],
+      "preco": 15.99,
+      "unidade": "un"
+    },
+    {
+      "id": 523,
+      "nome": "Hot Bowls Mac’n Cheese Cheddar e Bacon  Sadia - 300g",
+      "palavras_chave": [
+        "hot bowls mac’n cheese cheddar e bacon  sadia - 300g",
+        "hot bowls mac’n cheese cheddar e bacon  sadia - 300g",
+        "hot bowls",
+        "bowls mac’n",
+        "mac’n cheese",
+        "cheese cheddar",
+        "cheddar bacon",
+        "bacon sadia",
+        "sadia 300g"
+      ],
+      "preco": 15.99,
+      "unidade": "un"
+    },
+    {
+      "id": 524,
+      "nome": "Hot bowls Nhoque Sadia - 300g",
+      "palavras_chave": [
+        "hot bowls nhoque sadia - 300g",
+        "hot bowls nhoque sadia - 300g",
+        "hot bowls",
+        "bowls nhoque",
+        "nhoque sadia",
+        "sadia 300g"
+      ],
+      "preco": 15.99,
+      "unidade": "un"
+    },
+    {
+      "id": 276,
+      "nome": "Hot Pocket Sadia - 145g",
+      "palavras_chave": [
+        "hot pocket sadia - 145g",
+        "hot pocket sadia - 145g",
+        "hot pocket",
+        "pocket sadia",
+        "sadia 145g"
+      ],
+      "preco": 13.69,
+      "unidade": "un"
+    },
+    {
+      "id": 46,
+      "nome": "Iogurte Danoninho Morango -100g",
+      "palavras_chave": [
+        "iogurte danoninho morango -100g",
+        "iogurte danoninho morango -100g",
+        "iogurte",
+        "danoninho",
+        "iogurte danoninho",
+        "danoninho morango",
+        "morango 100g"
+      ],
+      "preco": 3.79,
+      "unidade": "un"
+    },
+    {
+      "id": 231,
+      "nome": "Iogurte natural mix granola  Vigor - 140g",
+      "palavras_chave": [
+        "iogurte natural mix granola  vigor - 140g",
+        "iogurte natural mix granola  vigor - 140g",
+        "iogurte natural",
+        "natural mix",
+        "mix granola",
+        "granola vigor",
+        "vigor 140g"
+      ],
+      "preco": 5.28,
+      "unidade": "un"
+    },
+    {
+      "id": 492,
+      "nome": "Ioio mix Duo - 30g",
+      "palavras_chave": [
+        "ioio mix duo - 30g",
+        "ioio mix duo - 30g",
+        "ioio mix",
+        "mix duo",
+        "duo 30g"
+      ],
+      "preco": 5.98,
+      "unidade": "un"
+    },
+    {
+      "id": 51,
+      "nome": "Ketchup Quero - 200g",
+      "palavras_chave": [
+        "ketchup quero - 200g",
+        "ketchup quero - 200g",
+        "ketchup quero",
+        "quero 200g"
+      ],
+      "preco": 8.97,
+      "unidade": "un"
+    },
+    {
+      "id": 290,
+      "nome": "Ketchup Quero - 400g",
+      "palavras_chave": [
+        "ketchup quero - 400g",
+        "ketchup quero - 400g",
+        "ketchup quero",
+        "quero 400g"
+      ],
+      "preco": 10.46,
+      "unidade": "un"
+    },
+    {
+      "id": 392,
+      "nome": "Ketchup Salsaretti - 380g",
+      "palavras_chave": [
+        "ketchup salsaretti - 380g",
+        "ketchup salsaretti - 380g",
+        "ketchup salsaretti",
+        "salsaretti 380g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 407,
+      "nome": "Ketchup Val - 400g",
+      "palavras_chave": [
+        "ketchup val - 400g",
+        "ketchup val - 400g",
+        "ketchup",
+        "ketchup val",
+        "val 400g"
+      ],
+      "preco": 11.77,
+      "unidade": "un"
+    },
+    {
+      "id": 240,
+      "nome": "Kinder Joy - 20g",
+      "palavras_chave": [
+        "kinder joy - 20g",
+        "kinder joy - 20g",
+        "kinder joy",
+        "joy 20g"
+      ],
+      "preco": 12.66,
+      "unidade": "un"
+    },
+    {
+      "id": 99,
+      "nome": "Lasanha Perdigão - 600g",
+      "palavras_chave": [
+        "lasanha perdigão - 600g",
+        "lasanha perdigao - 600g",
+        "lasanha perdigao",
+        "perdigao 600g"
+      ],
+      "preco": 20.95,
+      "unidade": "un"
+    },
+    {
+      "id": 105,
+      "nome": "Lasanha Sadia - 600g",
+      "palavras_chave": [
+        "lasanha sadia - 600g",
+        "lasanha sadia 600g",
+        "lasanha sadia",
+	"lasanha",
+        "sadia 600g"
+      ],
+      "preco": 26.99,
+      "unidade": "un"
+    },
+    {
+      "id": 539,
+      "nome": "Lasanha Seara - 300g",
+      "palavras_chave": [
+        "lasanha seara - 300g",
+        "lasanha seara - 300g",
+        "lasanha seara",
+        "seara 300g"
+      ],
+      "preco": 15.99,
+      "unidade": "un"
+    },
+    {
+      "id": 281,
+      "nome": "Lasanha Seara - 600g",
+      "palavras_chave": [
+        "lasanha seara - 600g",
+        "lasanha seara - 600g",
+        "lasanha seara",
+        "seara 600g"
+      ],
+      "preco": 2.59,
+      "unidade": "un"
+    },
+    {
+      "id": 63,
+      "nome": "Leite condensado Marajoara - 395g",
+      "palavras_chave": [
+        "leite condensado marajoara - 395g",
+        "leite condensado marajoara - 395g",
+        "marajoara",
+        "leite condensado marajoara",
+        "condensado marajoara",
+        "marajoara 395g"
+      ],
+      "preco": 8.99,
+      "unidade": "un"
+    },
+    {
+      "id": 259,
+      "nome": "Leite condensado Moça lata - 395g",
+      "palavras_chave": [
+        "leite condensado moça lata - 395g",
+        "leite condensado moca lata - 395g",
+        "leite condensado",
+        "condensado moca",
+        "moca lata",
+        "lata 395g"
+      ],
+      "preco": 12.96,
+      "unidade": "un"
+    },
+    {
+      "id": 434,
+      "nome": "Leite condensado Paulista - 395g",
+      "palavras_chave": [
+        "leite condensado paulista - 395g",
+        "leite condensado paulista 395g",
+        "leite condensado paulista",
+        "condensado paulista",
+        "paulista 395g"
+      ],
+      "preco": 9.47,
+      "unidade": "un"
+    },
+    {
+      "id": 293,
+      "nome": "Leite condensado Piracanjuba - 395g",
+      "palavras_chave": [
+        "leite condensado piracanjuba - 395g",
+        "leite condensado piracanjuba - 395g",
+        "condensado piracanjuba",
+        "piracanjuba 395g"
+      ],
+      "preco": 9.27,
+      "unidade": "un"
+    },
+    {
+      "id": 521,
+      "nome": "Leite de coco Indiano - 200ml",
+      "palavras_chave": [
+        "leite de coco indiano - 200ml",
+        "leite de coco indiano 200ml",
+        "coco indiano",
+        "indiano 200ml"
+      ],
+      "preco": 6.99,
+      "unidade": "un"
+    },
+    {
+      "id": 260,
+      "nome": "Leite desnatado Italac - 1L",
+      "palavras_chave": [
+        "leite desnatado italac - 1l",
+        "leite desnatado italac 1l",
+        "desnatado italac",
+        "italac 1l"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 83,
+      "nome": "Leite desnatado Itambé  - 1L",
+      "palavras_chave": [
+        "leite desnatado itambé  - 1l",
+        "leite desnatado itambe  - 1l",
+        "desnatado itambe",
+        "itambe 1l"
+      ],
+      "preco": 7.17,
+      "unidade": "un"
+    },
+    {
+      "id": 292,
+      "nome": "Leite desnatado Parmalat - 1L",
+      "palavras_chave": [
+        "leite desnatado parmalat - 1l",
+        "leite desnatado parmalat 1l",
+        "leite desnatado",
+        "desnatado parmalat",
+        "parmalat 1l"
+      ],
+      "preco": 8.27,
+      "unidade": "un"
+    },
+    {
+      "id": 218,
+      "nome": "Leite desnatado Piracanjuba- 1L",
+      "palavras_chave": [
+        "leite desnatado piracanjuba- 1l",
+        "leite desnatado piracanjuba- 1l",
+        "desnatado piracanjuba",
+        "piracanjuba 1l"
+      ],
+      "preco": 7.17,
+      "unidade": "un"
+    },
+    {
+      "id": 124,
+      "nome": "Leite em pó Italac - 200g",
+      "palavras_chave": [
+        "leite em pó italac - 200g",
+        "leite em po italac 200g",
+        "em po",
+        "po italac",
+        "italac 200g"
+      ],
+      "preco": 12.96,
+      "unidade": "un"
+    },
+    {
+      "id": 200,
+      "nome": "Leite Fermentado - Morang Elege - 80g",
+      "palavras_chave": [
+        "leite fermentado - morang elege - 80g",
+        "leite fermentado - morang elege - 80g",
+        "leite fermentado",
+        "fermentado morang",
+        "morang elege",
+        "elege 80g"
+      ],
+      "preco": 2.0,
+      "unidade": "un"
+    },
+    {
+      "id": 355,
+      "nome": "Leite integral Aurora- 1L",
+      "palavras_chave": [
+        "leite integral aurora- 1l",
+        "leite integral aurora 1l",
+        "integral aurora",
+        "aurora 1l"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 220,
+      "nome": "Leite integral Italac- 1L",
+      "palavras_chave": [
+        "leite integral italac- 1l",
+        "leite integral italac- 1l",
+        "integral italac",
+        "italac 1l"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 458,
+      "nome": "Leite integral Itambé - 1L",
+      "palavras_chave": [
+        "leite integral itambé - 1l",
+        "leite integral",
+        "integral itambe",
+        "itambe 1l"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 354,
+      "nome": "Leite integral Jussara - 1L",
+      "palavras_chave": [
+        "leite integral jussara - 1l",
+        "leite integral jussara 1l",
+        "leite integral",
+        "integral jussara",
+        "jussara 1l"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 444,
+      "nome": "Leite integral Ninho- 1L",
+      "palavras_chave": [
+        "leite integral ninho- 1l",
+        "leite integral ninho 1l",
+        "leite integral",
+        "integral ninho",
+        "ninho 1l"
+      ],
+      "preco": 8.99,
+      "unidade": "un"
+    },
+    {
+      "id": 128,
+      "nome": "Leite integral Parmalat - 1L",
+      "palavras_chave": [
+        "leite integral parmalat - 1l",
+        "leite integral parmalat 1l",
+        "integral parmalat",
+        "parmalat 1l"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 312,
+      "nome": "Leite integral Piracanjuba - 1L",
+      "palavras_chave": [
+        "leite integral piracanjuba - 1l",
+        "leite integral piracanjuba - 1l",
+        "integral piracanjuba",
+        "piracanjuba 1l"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 505,
+      "nome": "Leite Levinho Ninho- 1L",
+      "palavras_chave": [
+        "leite levinho ninho- 1l",
+        "leite levinho ninho 1l",
+        "leite levinho",
+        "levinho ninho",
+        "ninho 1l"
+      ],
+      "preco": 8.99,
+      "unidade": "un"
+    },
+    {
+      "id": 299,
+      "nome": "Leite Semi-desnatado Italac - 1L",
+      "palavras_chave": [
+        "leite semi-desnatado italac - 1l",
+        "leite semi-desnatado italac 1l",
+        "leite semi-desnatado italac",
+        "italac 1l"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 401,
+      "nome": "Leite semi-desnatado Jussara - 1L",
+      "palavras_chave": [
+        "leite semi-desnatado jussara - 1l",
+        "leite semi-desnatado jussara 1l",
+        "semi desnatado",
+        "semi desnatado jussara",
+        "jussara 1l"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 169,
+      "nome": "Leite Semi-desnatado Parmalat - 1L",
+      "palavras_chave": [
+        "leite semi-desnatado parmalat - 1l",
+        "leite semi-desnatado parmalat 1l",
+        "desnatado parmalat",
+        "parmalat 1l"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 316,
+      "nome": "Leite Semi-desnatado Piracanjuba - 1L",
+      "palavras_chave": [
+        "leite semi-desnatado piracanjuba - 1l",
+        "leite semi-desnatado piracanjuba - 1l",
+        "semi desnatado piracanjuba",
+        "piracanjuba 1l"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 489,
+      "nome": "Lemon Pepper 30g",
+      "palavras_chave": [
+        "lemon pepper 30g",
+        "lemon pepper 30g",
+        "lemon",
+        "pepper",
+        "lemon pepper",
+        "pepper 30g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 520,
+      "nome": "Lenço Umedecido Cotondela Baby 50 toalhas",
+      "palavras_chave": [
+        "lenço umedecido cotondela baby 50 toalhas",
+        "lenco umedecido cotondela baby 50 toalhas",
+        "lenco umedecido",
+        "umedecido cotondela",
+        "cotondela baby",
+        "baby toalhas"
+      ],
+      "preco": 11.99,
+      "unidade": "un"
+    },
+    {
+      "id": 461,
+      "nome": "Lenço Umedecido Huggles 48 toalhas",
+      "palavras_chave": [
+        "lenço umedecido huggles 48 toalhas",
+        "lenco umedecido huggles 48 toalhas",
+        "lenco umedecido",
+        "umedecido huggles",
+        "huggles toalhas"
+      ],
+      "preco": 17.95,
+      "unidade": "un"
+    },
+    {
+      "id": 400,
+      "nome": "Limpador e perfurmador - Limpol 500ml",
+      "palavras_chave": [
+        "limpador e perfurmador - limpol 500ml",
+        "limpador e perfurmador - limpol 500ml",
+        "limpador",
+        "perfurmador",        "limpol",
+        "500ml",
+        "limpador perfurmador",
+        "perfurmador limpol",
+        "limpol 500ml"
+      ],
+      "preco": 8.48,
+      "unidade": "un"
+    },
+    {
+      "id": 106,
+      "nome": "Linguiça toscana Seara - 700g",
+      "palavras_chave": [
+        "linguiça toscana seara - 700g",
+        "linguica toscana seara - 700g",
+        "linguica",
+        "toscana",
+        "linguica toscana",
+        "toscana seara",
+        "seara 700g"
+      ],
+      "preco": 23.93,
+      "unidade": "un"
+    },
+    {
+      "id": 388,
+      "nome": "Lombo defumado Aurora - 180g",
+      "palavras_chave": [
+        "lombo defumado aurora - 180g",
+        "lombo defumado aurora - 180g",
+        "lombo",
+        "lombo defumado",
+        "defumado aurora",
+        "aurora 180g"
+      ],
+      "preco": 8.97,
+      "unidade": "un"
+    },
+    {
+      "id": 518,
+      "nome": "Lombo Levissimo Seara - 180g",
+      "palavras_chave": [
+        "lombo levissimo seara - 180g",
+        "lombo levissimo seara - 180g",
+        "lombo levissimo",
+        "levissimo seara",
+        "seara 180g"
+      ],
+      "preco": 9.59,
+      "unidade": "un"
+    },
+    {
+      "id": 33,
+      "nome": "Macarrão Espaguete Adria - 500g",
+      "palavras_chave": [
+        "macarrão espaguete adria - 500g",
+        "macarrao espaguete adria - 500g",
+        "macarrao espaguete adria",
+        "espaguete adria",
+        "adria 500g"
+      ],
+      "preco": 5.79,
+      "unidade": "un"
+    },
+    {
+      "id": 179,
+      "nome": "Macarrão Espaguete Dona Benta - 500g",
+      "palavras_chave": [
+        "macarrão espaguete dona benta - 500g",
+        "macarrao espaguete dona benta - 500g",
+        "macarrao",
+        "espaguete",
+        "macarrao espaguete",
+        "espaguete dona",
+        "dona benta",
+        "benta 500g"
+      ],
+      "preco": 7.56,
+      "unidade": "un"
+    },
+    {
+      "id": 427,
+      "nome": "Macarrão Espaguete Galo- 500g",
+      "palavras_chave": [
+        "macarrão espaguete galo- 500g",
+        "macarrao espaguete galo- 500g",
+        "espaguete galo",
+        "galo 500g"
+      ],
+      "preco": 4.28,
+      "unidade": "un"
+    },
+    {
+      "id": 34,
+      "nome": "Macarrão Parafuso Adria - 500g",
+      "palavras_chave": [
+        "macarrão parafuso adria - 500g",
+        "macarrao parafuso adria - 500g",
+        "parafuso adria",
+        "adria 500g"
+      ],
+      "preco": 5.79,
+      "unidade": "un"
+    },
+    {
+      "id": 180,
+      "nome": "Macarrão Parafuso Dona Benta - 500g",
+      "palavras_chave": [
+        "macarrão parafuso dona benta - 500g",
+        "macarrao parafuso dona benta - 500g",
+        "parafuso",
+        "macarrao parafuso",
+        "parafuso dona",
+        "dona benta",
+        "benta 500g"
+      ],
+      "preco": 7.56,
+      "unidade": "un"
+    },
+    {
+      "id": 428,
+      "nome": "Macarrão Parafuso Galo - 500g",
+      "palavras_chave": [
+        "macarrão parafuso galo - 500g",
+        "macarrao parafuso galo - 500g",
+        "parafuso galo",
+        "galo 500g"
+      ],
+      "preco": 4.28,
+      "unidade": "un"
+    },
+    {
+      "id": 472,
+      "nome": "Macarrão Penne Dona Benta - 500g",
+      "palavras_chave": [
+        "macarrão penne dona benta - 500g",
+        "macarrao penne dona benta - 500g",
+        "penne",
+        "macarrao penne",
+        "penne dona",
+        "dona benta",
+        "benta 500g"
+      ],
+      "preco": 7.56,
+      "unidade": "un"
+    },
+    {
+      "id": 310,
+      "nome": "Mac Cheese Bacon e molho cremoso Seara - 300g",
+      "palavras_chave": [
+        "mac cheese bacon e molho cremoso seara - 300g",
+        "mac cheese bacon e molho cremoso seara 300g",
+        "mac cheese",
+        "cheese bacon",
+        "bacon molho",
+        "molho cremoso",
+        "cremoso seara",
+        "seara 300g"
+      ],
+      "preco": 13.96,
+      "unidade": "un"
+    },
+    {
+      "id": 386,
+      "nome": "Maionese Hellmann’s - 200ml",
+      "palavras_chave": [
+        "maionese hellmann’s - 200ml",
+        "maionese hellmann’s 200ml",
+        "maionese hellmann’s 200ml",
+        "hellmann’s 200ml"
+      ],
+      "preco": 7.77,
+      "unidade": "un"
+    },
+    {
+      "id": 53,
+      "nome": "Maionese Hellmann's - 250g",
+      "palavras_chave": [
+        "maionese hellmann's - 250g",
+        "maionese hellmann's - 250g",
+        "maionese",
+        "hellmann's",
+        "maionese hellmann's",
+        "hellmann's 250g"
+      ],
+      "preco": 12.99,
+      "unidade": "un"
+    },
+    {
+      "id": 380,
+      "nome": "Maionese Hemmer - 190ml",
+      "palavras_chave": [
+        "maionese hemmer - 190ml",
+        "maionese hemmer 190ml",
+        "maionese hemmer",
+        "hemmer 190ml"
+      ],
+      "preco": 7.57,
+      "unidade": "un"
+    },
+    {
+      "id": 448,
+      "nome": "Maionese Saude - 200g",
+      "palavras_chave": [
+        "maionese saude - 200g",
+        "maionese saude - 200g", 
+        "maionese saude",
+        "saude 200g"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 141,
+      "nome": "Margarina com sal Delicia - 250g",
+      "palavras_chave": [
+        "margarina com sal delicia - 250g",
+        "margarina com sal delicia 250g",
+        "sal delicia",
+        "delicia 250g"
+      ],
+      "preco": 5.98,
+      "unidade": "un"
+    },
+    {
+      "id": 239,
+      "nome": "Margarina com sal Doriana - 250g",
+      "palavras_chave": [
+        "margarina com sal doriana - 250g",
+        "margarina com sal doriana - 250g",
+        "margarina",
+        "doriana com sal",
+        "margarina sal doriana",
+        "margarina doriana 250g"
+      ],
+      "preco": 7.17,
+      "unidade": "un"
+    },
+    {
+      "id": 217,
+      "nome": "Margarina com sal Qualy - 250g",
+      "palavras_chave": [
+        "margarina com sal qualy - 250g",
+        "margarina com sal qualy - 250g",
+        "qualy 250g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 273,
+      "nome": "Marshmallow torção Fini - 80g",
+      "palavras_chave": [
+        "marshmallow torção fini - 80g",
+        "marshmallow torcao fini - 80g",
+        "marshmallow",
+        "marshmallow torcao",
+        "torcao fini",
+        "fini 80g"
+      ],
+      "preco": 7.99,
+      "unidade": "un"
+    },
+    {
+      "id": 92,
+      "nome": "Mentos box Fruit - 24.1g",
+      "palavras_chave": [
+        "mentos box fruit - 24.1g",
+        "mentos box fruit - 24.1g",
+        "mentos box",
+        "box fruit",
+        "fruit 24.1g"
+      ],
+      "preco": 2.89,
+      "unidade": "un"
+    },
+    {
+      "id": 91,
+      "nome": "Mentos box Mint - 24.1g",
+      "palavras_chave": [
+        "mentos box mint - 24.1g",
+        "mentos box mint - 24.1g",
+        "mentos",
+        "mentos box",
+        "box mint",
+        "mint 24.1g"
+      ],
+      "preco": 2.89,
+      "unidade": "un"
+    },
+    {
+      "id": 445,
+      "nome": "Meu Menu Perdigão Fertuccine bolonhesa - 300g",
+      "palavras_chave": [
+        "meu menu perdigão fertuccine bolonhesa - 300g",
+        "meu menu perdigao fertuccine bolonhesa 300g",
+        "meu menu",
+        "menu perdigao",
+        "perdigao fertuccine",
+        "fertuccine bolonhesa",
+        "bolonhesa 300g"
+      ],
+      "preco": 12.96,
+      "unidade": "un"
+    },
+    {
+      "id": 470,
+      "nome": "Milho em conserva Fugini sache - 170g",
+      "palavras_chave": [
+        "milho em conserva fugini sache - 170g",
+        "milho em conserva fugini sache - 170g",
+        "conserva fugini",
+        "fugini sache",
+        "sache 170g"
+      ],
+      "preco": 2.98,
+      "unidade": "un"
+    },
+    {
+      "id": 64,
+      "nome": "Milho em conserva Predilecta - 170g",
+      "palavras_chave": [
+        "milho em conserva predilecta - 170g",
+        "milho em conserva predilecta 170g",
+        "conserva predilecta",
+        "predilecta 170g"
+      ],
+      "preco": 6.57,
+      "unidade": "un"
+    },
+    {
+      "id": 255,
+      "nome": "Milho em conserva Quero - 170g",
+      "palavras_chave": [
+        "milho em conserva quero - 170g",
+        "milho em conserva quero - 170g",
+        "milho em conserva",
+        "milho conserva quero",
+        "quero 170g"
+      ],
+      "preco": 7.99,
+      "unidade": "un"
+    },
+    {
+      "id": 433,
+      "nome": "Milho em conserva Salsaretti - 170g",
+      "palavras_chave": [
+        "milho em conserva salsaretti - 170g",
+        "milho em conserva salsaretti - 170g",
+        "conserva salsaretti",
+        "salsaretti 170g"
+      ],
+      "preco": 5.98,
+      "unidade": "un"
+    },
+    {
+      "id": 411,
+      "nome": "Milho para Pipoca Yoki - 400g",
+      "palavras_chave": [
+        "milho para pipoca yoki - 400g",
+        "milho para pipoca yoki 400g",
+        "milho",
+        "milho para pipoca",
+        "pipoca yoki",
+        "yoki 400g"
+      ],
+      "preco": 9.57,
+      "unidade": "un"
+    },
+    {
+      "id": 36,
+      "nome": "Miojo Adria carne - 75g",
+      "palavras_chave": [
+        "miojo adria carne - 75g",
+        "miojo adria carne - 75g",
+        "adria carne",
+        "carne 75g"
+      ],
+      "preco": 3.19,
+      "unidade": "un"
+    },
+    {
+      "id": 35,
+      "nome": "Miojo Adria Galinha caipira - 75g",
+      "palavras_chave": [
+        "miojo adria galinha caipira - 75g",
+        "miojo adria galinha caipira - 75g",
+        "adria galinha",
+        "galinha caipira",
+        "caipira 75g"
+      ],
+      "preco": 3.19,
+      "unidade": "un"
+    },
+    {
+      "id": 317,
+      "nome": "Miojo Nissin carne - 80g",
+      "palavras_chave": [
+        "miojo nissin carne - 80g",
+        "miojo nissin carne - 80g",
+        "miojo",
+        "miojo nissin",
+        "nissin carne",
+        "carne 80g"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 223,
+      "nome": "Miojo Nissin carne com tomate - 80g",
+      "palavras_chave": [
+        "miojo nissin carne com tomate - 80g",
+        "miojo nissin carne com tomate - 80g",
+        "miojo",
+        "miojo nissin",
+        "nissin carne",
+        "tomate 80g"
+      ],
+      "preco": 5.28,
+      "unidade": "un"
+    },
+    {
+      "id": 176,
+      "nome": "Miojo Nissin Galinha caipira - 80g",
+      "palavras_chave": [
+        "miojo nissin galinha caipira - 80g",
+        "miojo nissin galinha caipira - 80g",
+        "miojo nissin",
+        "nissin galinha",
+        "galinha caipira",
+        "caipira 80g"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 418,
+      "nome": "Miojo Nissin tomate suave - 80g",
+      "palavras_chave": [
+        "miojo nissin tomate suave - 80g",
+        "miojo nissin tomate suave - 80g",
+        "miojo nissin",
+        "nissin tomate",
+        "tomate suave",
+        "suave 80g"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 4,
+      "nome": "Mistura para bolo Chocolate - 400g",
+      "palavras_chave": [
+        "mistura para bolo chocolate - 400g",
+        "mistura para bolo chocolate 400g",
+        "mistura",
+        "mistura para bolo"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 3,
+      "nome": "Mistura para bolo Fubá - 400g",
+      "palavras_chave": [
+        "mistura para bolo fubá - 400g",
+        "mistura para bolo fuba - 400g",
+        "bolo fuba",
+        "fuba 400g"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 412,
+      "nome": "MM´S Chocolate ao leite - 45g",
+      "palavras_chave": [
+        "mm´s chocolate ao leite - 45g",
+        "mm´s chocolate ao leite - 45g",
+        "mm´s"
+      ],
+      "preco": 5.97,
+      "unidade": "un"
+    },
+    {
+      "id": 41,
+      "nome": "MM´S Chocolate ao leite Tubo - 30g",
+      "palavras_chave": [
+        "mm´s chocolate ao leite tubo - 30g",
+        "mm´s chocolate ao leite tubo - 30g",
+        "mm´s"
+      ],
+      "preco": 5.97,
+      "unidade": "un"
+    },
+    {
+      "id": 463,
+      "nome": "Molho de pimenta Gota - 150ml",
+      "palavras_chave": [
+        "molho de pimenta gota - 150ml",
+        "molho de pimenta gota 150ml",
+        "molho de pimenta"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 346,
+      "nome": "Molho de tomate tradicional - 300g",
+      "palavras_chave": [
+        "molho de tomate tradicional - 300g",
+        "molho de tomate tradicional 300g",
+        "molho de tomate",
+        "tomate tradicional",
+        "molho tradicional 300g"
+      ],
+      "preco": 1.49,
+      "unidade": "un"
+    },
+    {
+      "id": 37,
+      "nome": "Molho de tomate tradicional Heinz - 240g",
+      "palavras_chave": [
+        "molho de tomate tradicional heinz - 240g",
+        "molho de tomate tradicional heinz 240g",
+        "molho de tomate tradicional",
+        "tomate tradicional",
+        "tradicional heinz",
+        "heinz 240g"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 38,
+      "nome": "Molho de tomate tradicional Quero - 300g",
+      "palavras_chave": [
+        "molho de tomate tradicional quero - 300g",
+        "molho de tomate tradicional quero 300g",
+        "tomate tradicional",
+        "tradicional quero",
+        "quero 300g"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 375,
+      "nome": "Mortadela defumada  Aurora - 180g",
+      "palavras_chave": [
+        "mortadela defumada  aurora - 180g",
+        "mortadela defumada  aurora - 180g",
+        "mortadela",
+        "mortadela defumada",
+        "defumada aurora",
+        "aurora 180g"
+      ],
+      "preco": 6.97,
+      "unidade": "un"
+    },
+    {
+      "id": 441,
+      "nome": "Mortadela defumada  gourmet Seara - 180g",
+      "palavras_chave": [
+        "mortadela defumada  gourmet seara - 180g",
+        "mortadela defumada  gourmet seara - 180g",
+        "mortadela",
+        "mortadela defumada",
+        "defumada gourmet",
+        "gourmet seara",
+        "seara 180g"
+      ],
+      "preco": 9.97,
+      "unidade": "un"
+    },
+    {
+      "id": 519,
+      "nome": "Mortadela defumada  Sadia - 180g",
+      "palavras_chave": [
+        "mortadela defumada  sadia - 180g",
+        "mortadela defumada",
+        "defumada sadia",
+        "sadia 180g"
+      ],
+      "preco": 6.99,
+      "unidade": "un"
+    },
+    {
+      "id": 347,
+      "nome": "Mortadela Ouro Perdigão fatiada - 200g",
+      "palavras_chave": [
+        "mortadela ouro perdigão fatiada - 200g",
+        "mortadela ouro perdigao fatiada - 200g",
+        "mortadela",
+        "ouro",
+        "mortadela ouro",
+        "ouro perdigao",
+        "perdigao fatiada",
+        "fatiada 200g"
+      ],
+      "preco": 11.96,
+      "unidade": "un"
+    },
+    {
+      "id": 267,
+      "nome": "Mortadela tradicional fatiada - Marba 180g",
+      "palavras_chave": [
+        "mortadela tradicional fatiada - marba 180g",
+        "mortadela tradicional fatiada - marba 180g",
+        "mortadela tradicional",
+        "tradicional fatiada",
+        "fatiada marba",
+        "marba 180g"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 535,
+      "nome": "Mostarda Arrifana - 200g",
+      "palavras_chave": [
+        "mostarda arrifana - 200g",
+        "mostarda arrifana - 200g",
+        "mostarda arrifana",
+        "arrifana 200g"
+      ],
+      "preco": 9.5,
+      "unidade": "un"
+    },
+    {
+      "id": 542,
+      "nome": "Mostarda Cepêra - 200g",
+      "palavras_chave": [
+        "mostarda cepêra - 200g",
+        "mostarda cepera - 200g",
+        "mostarda",
+        "mostarda cepera",
+        "cepera 200g"
+      ],
+      "preco": 10.99,
+      "unidade": "un"
+    },
+    {
+      "id": 52,
+      "nome": "Mostarda Quero - 190g",
+      "palavras_chave": [
+        "mostarda quero - 190g",
+        "mostarda quero - 190g",
+        "mostarda quero",
+        "quero 190g"
+      ],
+      "preco": 10.5,
+      "unidade": "un"
+    },
+    {
+      "id": 101,
+      "nome": "Nuggets Sadia - 300g",
+      "palavras_chave": [
+        "nuggets sadia - 300g",
+        "nuggets sadia - 300g",
+        "nuggets",
+        "nuggets sadia",
+        "sadia 300g"
+      ],
+      "preco": 15.95,
+      "unidade": "un"
+    },
+    {
+      "id": 8,
+      "nome": "Oleo de soja tipo1 - 900ml",
+      "palavras_chave": [
+        "oleo de soja tipo1 - 900ml",
+        "oleo de soja tipo1 900ml",
+        "oleo",
+        "oleo de soja",
+        "soja tipo1",
+        "tipo1 900ml"
+      ],
+      "preco": 11.57,
+      "unidade": "un"
+    },
+    {
+      "id": 486,
+      "nome": "Orégano 8g",
+      "palavras_chave": [
+        "orégano 8g",
+        "oregano 8g",
+        "oregano",
+        "8g"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 183,
+      "nome": "Ovinhos de amendoim Elma chips -  145g",
+      "palavras_chave": [
+        "ovinhos de amendoim elma chips -  145g",
+        "ovinhos de amendoim elma chips -  145g",
+        "ovinhos",
+        "ovinhos de",
+        "de amendoim",
+        "amendoim elma",
+        "elma chips",
+        "chips 145g"
+      ],
+      "preco": 12.96,
+      "unidade": "un"
+    },
+    {
+      "id": 138,
+      "nome": "Ovinhos de amendoim Elma chips - 65g",
+      "palavras_chave": [
+        "ovinhos de amendoim elma chips - 65g",
+        "elma chips",
+        "chips 65g"
+      ],
+      "preco": 5.29,
+      "unidade": "un"
+    },
+    {
+      "id": 127,
+      "nome": "Ovos de galinha",
+      "palavras_chave": [
+        "ovos de galinha",
+        "ovos de galinha",
+        "ovos",
+        "ovos de galinha"
+      ],
+      "preco": 14.25,
+      "unidade": "un"
+    },
+    {
+      "id": 288,
+      "nome": "Ovos de galinha -10un",
+      "palavras_chave": [
+        "ovos de galinha -10un",
+        "ovos de galinha -10un",
+        "galinha 10un"
+      ],
+      "preco": 12.86,
+      "unidade": "un"
+    },
+    {
+      "id": 507,
+      "nome": "Paçoquita - 15g",
+      "palavras_chave": [
+        "paçoquita - 15g",
+        "pacoquita  15g",
+        "pacoquita",
+        "pacoquita 15g"
+      ],
+      "preco": 1.5,
+      "unidade": "un"
+    },
+    {
+      "id": 424,
+      "nome": "Palitos de Madeira - 100und",
+      "palavras_chave": [
+        "palitos de madeira - 100und",
+        "palitos de madeira 100und",
+        "palitos de dente",
+        "madeira 100und"
+      ],
+      "preco": 2.48,
+      "unidade": "un"
+    },
+    {
+      "id": 356,
+      "nome": "Panetone Bauducco - 400g",
+      "palavras_chave": [
+        "panetone bauducco - 400g",
+        "panetone bauducco - 400g",
+        "panetone",
+        "panetone bauducco",
+        "bauducco 400g"
+      ],
+      "preco": 27.62,
+      "unidade": "un"
+    },
+    {
+      "id": 393,
+      "nome": "Pão de forma Junior Panco - 350g",
+      "palavras_chave": [
+        "pão de forma junior panco - 350g",
+        "pao de forma junior panco - 350g",
+        "pao de forma panco junior",
+        "panco 350g"
+      ],
+      "preco": 10.21,
+      "unidade": "un"
+    },
+    {
+      "id": 206,
+      "nome": "Pão de forma Kim - 400g",
+      "palavras_chave": [
+        "pão de forma kim - 400g",
+        "pao de forma kim - 400g",
+        "pao de forma kim",
+        "forma kim",
+        "kim 400g"
+      ],
+      "preco": 9.99,
+      "unidade": "un"
+    },
+    {
+      "id": 165,
+      "nome": "Pão de forma Panco - 500g",
+      "palavras_chave": [
+        "pão de forma panco - 500g",
+        "pao de forma panco - 500g",
+        "pao de forma",
+        "pão de forma panco",
+        "pão de forma",
+        "panco 500g",
+        "pão 500g",
+        "forma panco",
+        "panco 500g"
+      ],
+      "preco": 13.64,
+      "unidade": "un"
+    },
+    {
+      "id": 222,
+      "nome": "Pão de queijo tradicional Massa Leve - 400g",
+      "palavras_chave": [
+        "pão de queijo tradicional massa leve - 400g",
+        "pao de queijo tradicional massa leve 400g",
+        "queijo tradicional",
+        "tradicional massa",
+        "massa leve",
+        "leve 400g"
+      ],
+      "preco": 14.85,
+      "unidade": "un"
+    },
+    {
+      "id": 385,
+      "nome": "Pão sovado Kim - 500g",
+      "palavras_chave": [
+        "pão sovado kim - 500g",
+        "pao sovado kim - 500g",
+        "sovado",
+        "pao sovado",
+        "sovado kim",
+        "kim 500g"
+      ],
+      "preco": 17.29,
+      "unidade": "un"
+    },
+    {
+      "id": 242,
+      "nome": "Pão sovado Panco - 500g",
+      "palavras_chave": [
+        "pão sovado panco - 500g",
+        "pao sovado panco - 500g",
+        "pao sovado panco",
+        "sovado panco",
+        "panco sovado 500g"
+      ],
+      "preco": 14.95,
+      "unidade": "un"
+    },
+    {
+      "id": 167,
+      "nome": "Papel Aluminio - 4m",
+      "palavras_chave": [
+        "papel aluminio - 4m",
+        "papel aluminio - 4m",
+        "papel aluminio",
+        "aluminio 4m"
+      ],
+      "preco": 5.79,
+      "unidade": "un"
+    },
+    {
+      "id": 368,
+      "nome": "Papel higiênico Dama - 4 rolos",
+      "palavras_chave": [
+        "papel higiênico dama - 4 rolos",
+        "papel higienico dama 4 rolos",
+        "papel higienico",
+        "higienico dama",
+        "dama rolos"
+      ],
+      "preco": 9.97,
+      "unidade": "un"
+    },
+    {
+      "id": 318,
+      "nome": "Papel higiênico Familiar - 4 rolos",
+      "palavras_chave": [
+        "papel higiênico familiar - 4 rolos",
+        "papel higienico familiar 4 rolos",
+        "papel higienico",
+        "higienico familiar",
+        "familiar rolos"
+      ],
+      "preco": 9.57,
+      "unidade": "un"
+    },
+    {
+      "id": 42,
+      "nome": "Papel higiênico Max pure FD - 4 rolos",
+      "palavras_chave": [
+        "papel higiênico max pure fd - 4 rolos",
+        "papel higienico max pure fd 4 rolos",
+        "papel higienico",
+        "higienico max",
+        "max pure",
+        "pure fd",
+        "fd rolos"
+      ],
+      "preco": 9.97,
+      "unidade": "un"
+    },
+    {
+      "id": 376,
+      "nome": "Papel higiênico Personal - 4 rolos",
+      "palavras_chave": [
+        "papel higiênico personal - 4 rolos",
+        "papel higienico personal 4 rolos",
+        "papel higienico",
+        "higienico personal",
+        "personal rolos"
+      ],
+      "preco": 9.97,
+      "unidade": "un"
+    },
+    {
+      "id": 421,
+      "nome": "Papel Manteiga - 4m",
+      "palavras_chave": [
+        "papel manteiga - 4m",
+        "papel manteiga 4m",
+        "papel manteiga",
+        "manteiga 4m"
+      ],
+      "preco": 8.96,
+      "unidade": "un"
+    },
+    {
+      "id": 533,
+      "nome": "Papel Manteiga - 7,5mm",
+      "palavras_chave": [
+        "papel manteiga - 7,5mm",
+        "papel manteiga 7,5mm",
+        "papel manteiga",
+        "manteiga 7,5mm"
+      ],
+      "preco": 12.99,
+      "unidade": "un"
+    },
+    {
+      "id": 406,
+      "nome": "Papel toalha Klass - 2 rolos",
+      "palavras_chave": [
+        "papel toalha klass - 2 rolos",
+        "papel toalha klass 2 rolos",
+        "papel toalha",
+        "toalha klass",
+        "klass rolos"
+      ],
+      "preco": 7.56,
+      "unidade": "un"
+    },
+    {
+      "id": 500,
+      "nome": "Papel toalha Piccola - 2 rolos",
+      "palavras_chave": [
+        "papel toalha piccola - 2 rolos",
+        "papel toalha piccola 2 rolos",
+        "papel toalha",
+        "toalha piccola",
+        "piccola rolos"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 541,
+      "nome": "Papel toalha Santepel - 2 rolos",
+      "palavras_chave": [
+        "papel toalha santepel - 2 rolos",
+        "papel toalha santepel 2 rolos",
+        "papel toalha",
+        "toalha santepel",
+        "santepel rolos"
+      ],
+      "preco": 5.5,
+      "unidade": "un"
+    },
+    {
+      "id": 177,
+      "nome": "Papel toalha Tropicos - 2 rolos",
+      "palavras_chave": [
+        "papel toalha tropicos - 2 rolos",
+        "papel toalha tropicos 2 rolos",
+        "papel toalha",
+        "toalha tropicos",
+        "tropicos rolos"
+      ],
+      "preco": 4.88,
+      "unidade": "un"
+    },
+    {
+      "id": 43,
+      "nome": "Papel toalha Yuri fit - 2 rolos",
+      "palavras_chave": [
+        "papel toalha yuri fit - 2 rolos",
+        "papel toalha yuri fit 2 rolos",
+        "papel toalha",
+        "toalha yuri",
+        "yuri fit",
+        "fit rolos"
+      ],
+      "preco": 8.97,
+      "unidade": "un"
+    },
+    {
+      "id": 543,
+      "nome": "Pilhas Alcalina Fiat Lux - Tipo AAA - 2unid",
+      "palavras_chave": [
+        "pilhas alcalina fiat lux - tipo aaa - 2unid",
+        "pilhas alcalina fiat lux - tipo aaa - 2unid",
+        "pilhas",
+        "pilhas alcalina AAA",
+        "alcalina fiat AAA",
+        "fiat lux AAA",
+        "lux tipo AAA",
+        "tipo aaa",
+        "aaa 2unid"
+      ],
+      "preco": 9.99,
+      "unidade": "un"
+    },
+    {
+      "id": 544,
+      "nome": "Pilhas Fiat Lux - Tipo AA - 2unid",
+      "palavras_chave": [
+        "pilhas fiat lux - tipo aa - 2unid",
+        "pilhas fiat lux - tipo aa - 2unid",
+        "pilhas fiat AA",
+        "fiat lux AA",
+        "lux tipo AA",
+        "tipo aa",
+        "aa 2unid"
+      ],
+      "preco": 7.99,
+      "unidade": "un"
+    },
+    {
+      "id": 194,
+      "nome": "Pipoca de microondas Manteiga Yoki - 100g",
+      "palavras_chave": [
+        "pipoca de microondas manteiga yoki - 100g",
+        "pipoca de microondas manteiga yoki - 100g",
+        "pipoca de microondas",
+        "microondas manteiga",
+        "manteiga yoki",
+        "yoki 100g"
+      ],
+      "preco": 7.99,
+      "unidade": "un"
+    },
+    {
+      "id": 131,
+      "nome": "Pipoca de microondas Yoki - 100g",
+      "palavras_chave": [
+        "pipoca de microondas yoki - 100g",
+        "pipoca de microondas yoki 100g",
+        "microondas yoki",
+        "yoki 100g"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 306,
+      "nome": "Pizza 4 queijos - Seara 460g",
+      "palavras_chave": [
+        "pizza 4 queijos - seara 460g",
+        "pizza 4 queijos seara 460g",
+        "pizza queijos",
+        "queijos seara",
+        "seara 460g"
+      ],
+      "preco": 23.93,
+      "unidade": "un"
+    },
+    {
+      "id": 337,
+      "nome": "Pizza de Calabresa - Sadia",
+      "palavras_chave": [
+        "pizza de calabresa - sadia",
+        "pizza de calabresa sadia",
+        "de calabresa",
+        "calabresa sadia"
+      ],
+      "preco": 25.99,
+      "unidade": "un"
+    },
+    {
+      "id": 402,
+      "nome": "Pizza de Calabresa - Seara 460g",
+      "palavras_chave": [
+        "pizza de calabresa - seara 460g",
+        "pizza de calabresa seara 460g",
+        "pizza de calabresa",
+        "pizza calabresa seara"
+      ],
+      "preco": 23.93,
+      "unidade": "un"
+    },
+    {
+      "id": 336,
+      "nome": "Pizza de Lombo com Requeijão e Mussarela- Sadia",
+      "palavras_chave": [
+        "pizza de lombo com requeijão e mussarela- sadia",
+        "pizza de lombo com requeijao e mussarela- sadia",
+        "requeijao mussarela",
+        "mussarela sadia"
+      ],
+      "preco": 23.93,
+      "unidade": "un"
+    },
+    {
+      "id": 329,
+      "nome": "Pizza Frango com catupiry - Seara 460g",
+      "palavras_chave": [
+        "pizza frango com catupiry - seara 460g",
+        "pizza frango com catupiry - seara 460g",
+        "pizza catupiry seara",
+        "pizza seara 460g"
+      ],
+      "preco": 23.93,
+      "unidade": "un"
+    },
+    {
+      "id": 307,
+      "nome": "Pizza Frango com requeijão e mussarela - Sadia 460g",
+      "palavras_chave": [
+        "pizza frango com requeijão e mussarela - sadia 460g",
+        "pizza frango com requeijao e mussarela - sadia 460g",
+        "pizza",
+        "pizza requeijao mussarela",
+        "pizza mussarela sadia",
+        "pizza sadia 460g"
+      ],
+      "preco": 25.99,
+      "unidade": "un"
+    },
+    {
+      "id": 330,
+      "nome": "Pizza Mussarela - Sadia",
+      "palavras_chave": [
+        "pizza mussarela - sadia",
+        "pizza mussarela - sadia",
+        "pizza mussarela",
+        "mussarela sadia"
+      ],
+      "preco": 25.99,
+      "unidade": "un"
+    },
+    {
+      "id": 333,
+      "nome": "Pizza Mussarela - Seara",
+      "palavras_chave": [
+        "pizza mussarela - seara",
+        "pizza mussarela - seara",
+        "pizza mussarela",
+        "pizza mussarela seara"
+      ],
+      "preco": 25.99,
+      "unidade": "un"
+    },
+    {
+      "id": 265,
+      "nome": "Presunto fatiado Perdigão - 200g",
+      "palavras_chave": [
+        "presunto fatiado perdigão - 200g",
+        "presunto fatiado perdigao - 200g",
+        "presunto perdigao 200g"
+      ],
+      "preco": 8.77,
+      "unidade": "un"
+    },
+    {
+      "id": 416,
+      "nome": "Presunto fatiado Sadia - 180g",
+      "palavras_chave": [
+        "presunto fatiado sadia - 180g",
+        "presunto fatiado sadia - 180g",
+        "presunto fatiado",
+        "presunto fatiado sadia",
+        "presunto sadia 180g"
+      ],
+      "preco": 8.77,
+      "unidade": "un"
+    },
+    {
+      "id": 358,
+      "nome": "Presunto fatiado Seara - 180g",
+      "palavras_chave": [
+        "presunto fatiado seara - 180g",
+        "presunto fatiado seara - 180g",
+        "presunto",
+        "presunto seara 180g"
+      ],
+      "preco": 12.96,
+      "unidade": "un"
+    },
+    {
+      "id": 233,
+      "nome": "Pringles sabores - 100g",
+      "palavras_chave": [
+        "pringles sabores - 100g",
+        "pringles sabores - 100g",
+        "pringles",
+        "pringles sabores",
+        "pringles sabores 100g"
+      ],
+      "preco": 17.95,
+      "unidade": "un"
+    },
+    {
+      "id": 103,
+      "nome": "Queijo de coalho Ipanema - 300g",
+      "palavras_chave": [
+        "queijo de coalho ipanema - 300g",
+        "queijo de coalho ipanema 300g",
+        "queijo coalho ipanema",
+        "queijo ipanema 300g"
+      ],
+      "preco": 26.92,
+      "unidade": "un"
+    },
+    {
+      "id": 266,
+      "nome": "Queijo Mussarela - 150g",
+      "palavras_chave": [
+        "queijo mussarela - 150g",
+        "queijo mussarela 150g",
+        "queijo mussarela",
+        "queijo mussarela 150g"
+      ],
+      "preco": 12.96,
+      "unidade": "un"
+    },
+    {
+      "id": 139,
+      "nome": "Queijo parmesão ralado Ipanema - 40g",
+      "palavras_chave": [
+        "queijo parmesão ralado ipanema - 40g",
+        "queijo parmesao ralado ipanema 40g",
+        "queijo parmesao",
+        "parmesao ralado",
+        "ralado ipanema"
+      ],
+      "preco": 7.99,
+      "unidade": "un"
+    },
+    {
+      "id": 431,
+      "nome": "Recheadinhos Bauduco - 112g",
+      "palavras_chave": [
+        "recheadinhos bauduco - 112g",
+        "recheadinhos bauduco - 112g",
+        "recheadinhos",
+        "recheadinhos bauduco"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 39,
+      "nome": "Refrigerante Coca-cola - 200ml",
+      "palavras_chave": [
+        "refrigerante coca-cola - 200ml",
+        "refrigerante coca-cola - 200ml",
+        "refrigerante coca 200ml",
+        "coca 200ml",
+        "coca-cola 200ml",
+        "200ml",
+        "refrigerante coca 200ml",
+        "coca cola 200ml",
+        "cola 200ml",
+        "coquinha"
+      ],
+      "preco": 2.85,
+      "unidade": "un"
+    },
+    {
+      "id": 9,
+      "nome": "Refrigerante Coca-Cola - 2LT",
+      "palavras_chave": [
+        "refrigerante coca-cola - 2lt",
+        "refrigerante coca - 2lt",
+        "refrigerante coca 2 litros",
+        "coca",
+        "coca 2 litros",
+        "coca 2l",
+        "refrigerante coca",
+        "coca cola",
+        "coca-cola 2lt",
+        "coca-cola 2 litros",
+        "coca-cola",
+        "cola 2lt"
+      ],
+      "preco": 15.99,
+      "unidade": "un"
+    },
+    {
+      "id": 10,
+      "nome": "Refrigerante Coca-cola - 350ml",
+      "palavras_chave": [
+        "refrigerante coca-cola - 350ml",
+        "refrigerante coca - 350ml",
+        "refrigerante coca 350ml",
+        "coca 350ml",
+        "coca 350",
+        "coca cola 350ml",
+        "refri coca 350ml",
+        "coca-cola 350ml",
+        "coca lata"
+      ],
+      "preco": 6.0,
+      "unidade": "un"
+    },
+    {
+      "id": 17,
+      "nome": "Refrigerante Coca-cola - 600ml",
+      "palavras_chave": [
+        "refrigerante coca-cola - 600ml",
+        "refrigerante coca 600ml",
+        "refrigerante coca cola 600ml",
+        "coca 600ml",
+        "coca-cola 600ml",
+        "coca 600",
+        "refri coca 600ml",
+        "coca cola 600ml",
+        "cola 600ml"
+      ],
+      "preco": 8.39,
+      "unidade": "un"
+    },
+    {
+      "id": 198,
+      "nome": "Refrigerante Coca-Cola Zero - 2LT",
+      "palavras_chave": [
+        "refrigerante coca-cola zero - 2lt",
+        "refrigerante coca-cola zero - 2 litros",
+        "refrigerante coca zero 2l",
+        "coca zero 2L",
+        "coca-cola 2L zero",
+        "coca-cola zero 2 litros",
+        "coca zero 2lt",
+        "refrigerante coca zero 2 Litros",
+        "coca cola 2 litros zero",
+        "cola zero 2l",
+        "zero 2lt"
+      ],
+      "preco": 15.99,
+      "unidade": "un"
+    },
+    {
+      "id": 245,
+      "nome": "Refrigerante Coca-cola Zero - 350ml",
+      "palavras_chave": [
+        "refrigerante coca-cola zero - 350ml",
+        "refrigerante coca-cola zero - 350ml",
+        "refrigerante lata coca zero ",
+        "coca-cola zero 350ml",
+        "coca cola zero 350ml",
+        "zero 350ml",
+        "coca 350ml zero",
+        "refrigerante coca zero 350ml",
+        "coca cola 350ml zero",
+        "cola zero 350ml",
+        "zero 350ml"
+      ],
+      "preco": 6.0,
+      "unidade": "un"
+    },
+    {
+      "id": 443,
+      "nome": "Refrigerante Fanta Laranja - 220ml",
+      "palavras_chave": [
+        "refrigerante fanta laranja - 220ml",
+        "refrigerante fanta laranja - 220ml",
+        "refrigerante fanta lata",
+        "fanta 220ml",
+        "laranja 220ml",
+        "fanta lara 220ml",
+        "refrigerante fanta 220ml",
+        "fanta laranja 220ml",
+        "laranja 220ml"
+      ],
+      "preco": 4.68,
+      "unidade": "un"
+    },
+    {
+      "id": 121,
+      "nome": "Refrigerante Fanta laranja - 2LT",
+      "palavras_chave": [
+        "refrigerante fanta laranja - 2lt",
+        "refrigerante fanta laranja - 2lt",
+        "refrigerante fanta 2 litros",
+        "fanta 2 litros",
+        "fanta laranja 2 litros",
+        "2lt fanta",
+        "refrigerante fanta 2 litros laranja",
+        "fanta laranja",
+        "laranja 2lt"
+      ],
+      "preco": 14.25,
+      "unidade": "un"
+    },
+    {
+      "id": 11,
+      "nome": "Refrigerante Fanta Laranja - 350ml",
+      "palavras_chave": [
+        "refrigerante fanta laranja - 350ml",
+        "refrigerante fanta laranja - 350ml",
+        "refrigerante lata fanta",
+        "fanta lata",
+        "refri laranja",
+        "fanta 350ml",
+        "refrigerante fanta lata",
+        "fanta laranja 350ml",
+        "laranja 350ml"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 529,
+      "nome": "Refrigerante Fanta Uva - 350ml",
+      "palavras_chave": [
+        "refrigerante fanta uva - 350ml",
+        "refrigerante fanta uva - 350ml",
+        "refrigerante uva",
+        "fanta uva",
+        "uva 350ml",
+        "fanta uva 350ml",
+        "refrigerante fanta 350ml",
+        "fanta uva 350",
+        "uva 350ml"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 15,
+      "nome": "Refrigerante guarana Antarctica - 350ml",
+      "palavras_chave": [
+        "refrigerante guarana antarctica - 350ml",
+        "refrigerante guarana antarctica - 350ml",
+        "refrigerante guarana 350ml",
+        "guarana 350ml",
+        "antarctica 350ml",
+        "guarana antarctica 350ml",
+        "refrigerante guarana",
+        "guarana antarctica 350ml",
+        "antartica 350ml"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 436,
+      "nome": "Refrigerante Guaraná Antárctica  - 2LT",
+      "palavras_chave": [
+        "refrigerante guaraná antárctica  - 2lt",
+        "refrigerante guarana antarctica  - 2lt",
+        "refrigerante guarana 2l",
+        "guarana 2litros",
+        "antarctica 2 litros",
+        "guarana antartica",
+        "refrigerante guarana",
+        "guarana antartica 2l",
+        "antartica 2lt"
+      ],
+      "preco": 14.25,
+      "unidade": "un"
+    },
+    {
+      "id": 450,
+      "nome": "Refrigerante Guarana Cruzeiro  - 2LT",
+      "palavras_chave": [
+        "refrigerante guarana cruzeiro  - 2lt",
+        "refrigerante guarana cruzeiro  - 2",
+        "refrigerante cruzeiro",
+        "guarana cruzeiro 2Lt",
+        "cruzeiro 2L",
+        "guarana 2lt cruzeiro",
+        "refrigerante guarana cruzeiro 2 litros",
+        "guarana cruzeiro 2 litros",
+        "cruzeiro"
+      ],
+      "preco": 8.99,
+      "unidade": "un"
+    },
+    {
+      "id": 537,
+      "nome": "Refrigerante Itubaina  - 2LT",
+      "palavras_chave": [
+        "refrigerante itubaina  - 2lt",
+        "refrigerante itubaina  - 2lt",
+        "refrigerante itubaina",
+        "itubaina",
+        "itubaina 2lt",
+        "refrigerante itubaina 2L",
+        "itubaina 2 litros"
+      ],
+      "preco": 9.99,
+      "unidade": "un"
+    },
+    {
+      "id": 86,
+      "nome": "Refrigerante Kuat  - 2LT",
+      "palavras_chave": [
+        "refrigerante kuat  - 2lt",
+        "refrigerante kuat  - 2lt",
+        "refrigerante kuat 2 litros",
+        "kuat",
+        "kuat 2lt",
+        "refrigerante kuat",
+        "kuat 2lt"
+      ],
+      "preco": 11.96,
+      "unidade": "un"
+    },
+    {
+      "id": 126,
+      "nome": "Refrigerante Sprite - 2LT",
+      "palavras_chave": [
+        "refrigerante sprite - 2lt",
+        "refrigerante sprite - 2lt",
+        "refrigerante sprite 2 litros",
+        "sprite 2 L",
+        "refri sprite 2lt",
+        "refrigerante sprite 2l",
+        "sprite 2lt"
+      ],
+      "preco": 12.96,
+      "unidade": "un"
+    },
+    {
+      "id": 12,
+      "nome": "Refrigerante Sprite - 350ml",
+      "palavras_chave": [
+        "refrigerante sprite - 350ml",
+        "refrigerante sprite - 350ml",
+        "refrigerante sprite lata",
+        "sprite lata 350ml",
+        "sprite 350ml",
+        "refrigerante sprite 350ml",
+        "sprite 350"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 527,
+      "nome": "Removedor de esmaltes Acetona Vip - 90ml",
+      "palavras_chave": [
+        "removedor de esmaltes acetona vip - 90ml",
+        "removedor de esmaltes acetona vip - 90ml",
+        "removedor",
+        "esmaltes",
+        "acetona",
+        "removedor de esmaltes",
+        "esmaltes acetona",
+        "acetona vip",
+        "vip 90ml"
+      ],
+      "preco": 5.59,
+      "unidade": "un"
+    },
+    {
+      "id": 74,
+      "nome": "Removedor de esmaltes Zulu - 90ml",
+      "palavras_chave": [
+        "removedor de esmaltes zulu - 90ml",
+        "removedor de esmaltes zulu 90ml",
+        "removedor de esmaltes zulu",
+        "zulu 90ml"
+      ],
+      "preco": 5.59,
+      "unidade": "un"
+    },
+    {
+      "id": 142,
+      "nome": "Requeijão danone - 200g",
+      "palavras_chave": [
+        "requeijão danone - 200g",
+        "requeijao danone - 200g",
+        "requeijao",
+        "danone",
+        "requeijao danone",
+        "danone 200g"
+      ],
+      "preco": 11.96,
+      "unidade": "un"
+    },
+    {
+      "id": 435,
+      "nome": "Requeijão Nestle - 200g",
+      "palavras_chave": [
+        "requeijão nestle - 200g",
+        "requeijao nestle - 200g",
+        "nestle",
+        "requeijao nestle",
+        "nestle 200g"
+      ],
+      "preco": 11.96,
+      "unidade": "un"
+    },
+    {
+      "id": 203,
+      "nome": "Rosquinha Panco - 500g",
+      "palavras_chave": [
+        "rosquinha panco - 500g",
+        "rosquinha panco - 500g",
+        "rosquinha",
+        "rosquinha panco",
+        "panco 500g"
+      ],
+      "preco": 12.93,
+      "unidade": "un"
+    },
+    {
+      "id": 538,
+      "nome": "Ruffles original - 115g",
+      "palavras_chave": [
+        "ruffles original - 115g",
+        "ruffles original - 115g",
+        "ruffles",
+        "ruffles 115g",
+        "ruffles original",
+        "ruffles original 115g",
+        "rufles",
+        "original 115g"
+      ],
+      "preco": 18.2,
+      "unidade": "un"
+    },
+    {
+      "id": 81,
+      "nome": "Sabão em pó Omo - 400g",
+      "palavras_chave": [
+        "sabão em pó omo - 400g",
+        "sabao em po omo - 400g",
+        "sabao omo",
+        "omo em pó",
+        "sabao em em po 400g",
+        "omo 400g"
+      ],
+      "preco": 7.98,
+      "unidade": "un"
+    },
+    {
+      "id": 455,
+      "nome": "Sabão em pó Tixan - 400g",
+      "palavras_chave": [
+        "sabão em pó tixan - 400g",
+        "sabao em po tixan - 400g",
+        "sabao tixan",
+        "po tixan",
+        "tixan 400g"
+      ],
+      "preco": 11.96,
+      "unidade": "un"
+    },
+    {
+      "id": 249,
+      "nome": "Sabão liquido - 900ml",
+      "palavras_chave": [
+        "sabão liquido - 900ml",
+        "sabao liquido - 900ml",
+        "sabao liquido 900ml",
+        "sabao liquido",
+        "liquido 900ml"
+      ],
+      "preco": 19.84,
+      "unidade": "un"
+    },
+    {
+      "id": 80,
+      "nome": "Sabonete Johnson's - 80g",
+      "palavras_chave": [
+        "sabonete johnson's - 80g",
+        "sabonete johnson's - 80g",
+        "sabonete",
+        "johnson's",
+        "sabonete johnson's",
+        "johnson's 80g"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 205,
+      "nome": "Sachê Pedigree para cães - 100g",
+      "palavras_chave": [
+        "sachê pedigree para cães - 100g",
+        "sache pedigree para caes - 100g",
+        "pedigree",
+        "caes",
+        "sache pedigree",
+        "pedigree para",
+        "para caes",
+        "caes 100g"
+      ],
+      "preco": 5.18,
+      "unidade": "un"
+    },
+    {
+      "id": 204,
+      "nome": "Sachê Whiskas para gatos Sabores - 85g",
+      "palavras_chave": [
+        "sachê whiskas para gatos sabores - 85g",
+        "sache whiskas para gatos sabores - 85g",
+        "whiskas",
+        "gatos",
+        "sache whiskas",
+        "whiskas para",
+        "para gatos",
+        "gatos sabores",
+        "sabores 85g"
+      ],
+      "preco": 5.18,
+      "unidade": "un"
+    },
+    {
+      "id": 59,
+      "nome": "Salgadinho batata frita churrasco - 45g",
+      "palavras_chave": [
+        "salgadinho batata frita churrasco - 45g",
+        "salgadinho batata frita churrasco - 45g",
+        "salgadinho batata",
+        "batata frita",
+        "frita churrasco",
+        "churrasco 45g"
+      ],
+      "preco": 2.99,
+      "unidade": "un"
+    },
+    {
+      "id": 517,
+      "nome": "Salgadinho Elma Chips Stiksy 30g",
+      "palavras_chave": [
+        "salgadinho elma chips stiksy 30g",
+        "salgadinho elma chips stiksy 30g",
+        "salgadinho stiksy",
+        "stiksy",
+        "salgadinho elma",
+        "elma chips stiksy 30g",
+        "chips stiksy",
+        "stiksy 30g"
+      ],
+      "preco": 3.99,
+      "unidade": "un"
+    },
+    {
+      "id": 493,
+      "nome": "Salgadinho pururuca - 60g",
+      "palavras_chave": [
+        "salgadinho pururuca - 60g",
+        "salgadinho pururuca 60g",
+        "pururuca",
+        "salgadinho pururuca",
+        "pururuca 60g"
+      ],
+      "preco": 3.99,
+      "unidade": "un"
+    },
+    {
+      "id": 510,
+      "nome": "Salgadinho Ruffles Cebola e Salsa - 167g",
+      "palavras_chave": [
+        "salgadinho ruffles cebola e salsa - 167g",
+        "salgadinho ruffles cebola e salsa - 167g",
+        "salgadinho ruffles",
+        "ruffles 167g",
+        "salgadinho ruffles 167g",
+        "ruffles cebola 167g",
+        "cebola salsa 167g",
+        "salsa 167g"
+      ],
+      "preco": 17.99,
+      "unidade": "un"
+    },
+    {
+      "id": 339,
+      "nome": "Salgadinho Ruffles Cebola e Salsa - 68g",
+      "palavras_chave": [
+        "salgadinho ruffles cebola e salsa - 68g",
+        "salgadinho ruffles cebola e salsa - 68g",
+        "ruffles 68g",
+        "salgadinho ruffles 68g",
+        "ruffles cebola 68g",
+        "cebola salsa 68g",
+        "salsa 68g"
+      ],
+      "preco": 13.96,
+      "unidade": "un"
+    },
+    {
+      "id": 374,
+      "nome": "Salgadinho Ruffles churrasco - 68g",
+      "palavras_chave": [
+        "salgadinho ruffles churrasco - 68g",
+        "salgadinho ruffles churrasco - 68g",
+        "salgadinho ruffles 68g",
+        "ruffles churrasco 68g",
+        "churrasco 68g"
+      ],
+      "preco": 13.96,
+      "unidade": "un"
+    },
+    {
+      "id": 340,
+      "nome": "Salgadinho Ruffles original - 68g",
+      "palavras_chave": [
+        "salgadinho ruffles original - 68g",
+        "salgadinho ruffles original - 68g",
+        "salgadinho ruffles 68g",
+        "ruffles original 68g",
+        "original 68g"
+      ],
+      "preco": 13.96,
+      "unidade": "un"
+    },
+    {
+      "id": 137,
+      "nome": "Salgadinho Torcida de churrasco - 35g",
+      "palavras_chave": [
+        "salgadinho torcida de churrasco - 35g",
+        "salgadinho torcida de churrasco - 35g",
+        "salgadinho torcida",
+        "torcida de"
+      ],
+      "preco": 2.98,
+      "unidade": "un"
+    },
+    {
+      "id": 136,
+      "nome": "Salgadinho Torcida de pimenta mexicana - 35g",
+      "palavras_chave": [
+        "salgadinho torcida de pimenta mexicana - 35g",
+        "salgadinho torcida de pimenta mexicana - 35g",
+        "mexicana",
+        "salgadinho torcida",
+        "torcida de",
+        "pimenta mexicana 35g",
+        "mexicana 35g"
+      ],
+      "preco": 1.99,
+      "unidade": "un"
+    },
+    {
+      "id": 478,
+      "nome": "Sal Grosso - 1Kg",
+      "palavras_chave": [
+        "sal grosso - 1kg",
+        "sal grosso - 1kg",
+        "grosso",
+        "sal grosso",
+        "grosso 1kg"
+      ],
+      "preco": 4.98,
+      "unidade": "un"
+    },
+    {
+      "id": 7,
+      "nome": "Sal refinado - 1Kg",
+      "palavras_chave": [
+        "sal refinado - 1kg",
+        "sal refinado - 1kg",
+        "sal",
+        "sal 1kg",
+        "sal refinado 1 kg",
+        "refinado 1kg"
+      ],
+      "preco": 4.99,
+      "unidade": "un"
+    },
+    {
+      "id": 487,
+      "nome": "Salsa 8g",
+      "palavras_chave": [
+        "salsa 8g",
+        "salsa"
+      ],
+      "preco": 4.48,
+      "unidade": "un"
+    },
+    {
+      "id": 102,
+      "nome": "Salsicha hot-dog Sadia - 500g",
+      "palavras_chave": [
+        "salsicha hot-dog sadia - 500g",
+        "salsicha hot-dog sadia - 500g",
+        "salsicha",
+        "salsicha hot"
+      ],
+      "preco": 14.95,
+      "unidade": "un"
+    },
+    {
+      "id": 499,
+      "nome": "Sapolio cremoso cloro Bombril - 250ml",
+      "palavras_chave": [
+        "sapolio cremoso cloro bombril - 250ml",
+        "sapolio cremoso cloro 250ml",
+        "sapolio",
+        "sapolio cremoso",
+        "sapolio 250ml",
+        "bombril 250ml"
+      ],
+      "preco": 12.96,
+      "unidade": "un"
+    },
+    {
+      "id": 274,
+      "nome": "Sardinhas com Oleo - 125g",
+      "palavras_chave": [
+        "sardinhas com oleo - 125g",
+        "sardinhas com oleo 125g",
+        "sardinhas 125g",
+        "sardinhas"
+      ],
+      "preco": 6.97,
+      "unidade": "un"
+    },
+    {
+      "id": 256,
+      "nome": "Selecta de legumes em conserva Quero - 170g",
+      "palavras_chave": [
+        "selecta de legumes em conserva quero - 170g",
+        "selecta de legumes em conserva quero - 170g",
+        "selecta de legumes",
+        "conserva de legumes quero",
+        "seleta de legumes",
+        "selecta 170g"
+      ],
+      "preco": 7.27,
+      "unidade": "un"
+    },
+    {
+      "id": 173,
+      "nome": "Selecta de legumes em conserva Sófruta - 170g",
+      "palavras_chave": [
+        "selecta de legumes em conserva sófruta - 170g",
+        "selecta de legumes em conserva sofruta - 170g",
+        "selecta de legumes sofruta",
+        "sofruta 170g",
+        "selecta de legumes sofruta 170g"
+      ],
+      "preco": 6.27,
+      "unidade": "un"
+    },
+    {
+      "id": 21,
+      "nome": "Skol Beats sense - 269ml",
+      "palavras_chave": [
+        "skol beats sense - 269ml",
+        "skol beats sense - 269ml",
+        "beats",
+        "skol beats",
+        "beats sense",
+        "sense 269ml"
+      ],
+      "preco": 8.97,
+      "unidade": "un"
+    },
+    {
+      "id": 494,
+      "nome": "Smirnoff Ice - 275ml",
+      "palavras_chave": [
+        "smirnoff ice - 275ml",
+        "smirnoff ice - 275ml",
+        "smirnoff",
+        "smirnoff ice",
+        "ice 275ml"
+      ],
+      "preco": 9.99,
+      "unidade": "un"
+    },
+    {
+      "id": 225,
+      "nome": "Snickers chocolate - 45g",
+      "palavras_chave": [
+        "snickers chocolate - 45g",
+        "snickers chocolate - 45g",
+        "snickers",
+        "snickers chocolate"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 227,
+      "nome": "Snickers morango - 42g",
+      "palavras_chave": [
+        "snickers morango - 42g",
+        "snickers morango - 42g",
+        "snickers morango"
+      ],
+      "preco": 5.48,
+      "unidade": "un"
+    },
+    {
+      "id": 202,
+      "nome": "Sorvetes de Picolé ao leite/frutas - 1 unidade",
+      "palavras_chave": [
+        "sorvetes de picolé ao leite/frutas - 1 unidade",
+        "sorvetes de picole ao leite/frutas - 1 unidade",
+        "sorvetes de fruta",
+        "picole de fruta",
+        "picole ao leite",
+        "sorvete ao leite",
+        "sorvete leite frutas",
+        "picole leite frutas",
+	"sorvetes ao leite"
+      ],
+      "preco": 3.78,
+      "unidade": "un"
+    },
+    {
+      "id": 391,
+      "nome": "Sorvetes de Picolé especial - 1 unidade",
+      "palavras_chave": [
+        "sorvetes de picolé especial - 1 unidade",
+        "sorvetes de picole especial - 1 unidade",
+        "sorvetes",
+        "picole",
+        "sorvete especial",
+        "sorvete",
+        "picole especial",
+        "especial unidade"
+      ],
+      "preco": 6.97,
+      "unidade": "un"
+    },
+    {
+      "id": 161,
+      "nome": "Steak de frango - 1un",
+      "palavras_chave": [
+        "steak de frango - 1un",
+        "steak de frango - 1un",
+        "steak",
+        "steak de"
+      ],
+      "preco": 4.49,
+      "unidade": "un"
+    },
+    {
+      "id": 410,
+      "nome": "Steak Recheado - 1un",
+      "palavras_chave": [
+        "steak recheado - 1un",
+        "steak recheado - 1un",
+        "steak",
+        "steak recheado"
+      ],
+      "preco": 6.98,
+      "unidade": "un"
+    },
+    {
+      "id": 395,
+      "nome": "Suco daFruta Laranja- 1Lt",
+      "palavras_chave": [
+        "suco dafruta laranja- 1lt",
+        "suco dafruta laranja- 1lt",
+        "dafruta",
+        "suco dafruta laranja",
+        "dafruta 1lt",
+        "suco dafruta",
+        "dafruta laranja",
+        "laranja 1lt"
+      ],
+      "preco": 7.57,
+      "unidade": "un"
+    },
+    {
+      "id": 390,
+      "nome": "Suco daFruta Maracuja- 1Lt",
+      "palavras_chave": [
+        "suco dafruta maracuja- 1lt",
+        "suco dafruta maracuja- 1lt",
+        "dafruta",
+        "suco dafruta",
+        "dafruta maracuja",
+        "maracuja 1lt"
+      ],
+      "preco": 7.57,
+      "unidade": "un"
+    },
+    {
+      "id": 384,
+      "nome": "Suco daFruta Uva- 1Lt",
+      "palavras_chave": [
+        "suco dafruta uva- 1lt",
+        "suco dafruta uva- 1lt",
+        "dafruta",
+        "suco dafruta",
+        "dafruta uva",
+        "uva 1lt"
+      ],
+      "preco": 7.57,
+      "unidade": "un"
+    },
+    {
+      "id": 313,
+      "nome": "Suco Del valle goiaba - 290ml",
+      "palavras_chave": [
+        "suco del valle goiaba - 290ml",
+        "suco del valle goiaba - 290ml",
+        "suco goiaba 290ml",
+        "del valle 290ml",
+        "suco lata",
+        "suco del valle goiaba",
+        "del valle lata",
+        "valle goiaba",
+        "goiaba 290ml"
+      ],
+      "preco": 6.99,
+      "unidade": "un"
+    },
+    {
+      "id": 263,
+      "nome": "Suco DelValle Laranja - 1L",
+      "palavras_chave": [
+        "suco delvalle laranja - 1l",
+        "suco delvalle laranja 1 litro",
+        "suco",
+        "delvalle",
+        "suco delvalle",
+        "delvalle laranja",
+        "laranja 1l"
+      ],
+      "preco": 9.87,
+      "unidade": "un"
+    },
+    {
+      "id": 60,
+      "nome": "Suco Del valle maça - 200ml",
+      "palavras_chave": [
+        "suco del valle maça - 200ml",
+        "suco del valle maca - 200ml",
+        "suco caixinha",
+        "del valle maça",
+        "valle maca",
+        "maca 200ml"
+      ],
+      "preco": 3.99,
+      "unidade": "un"
+    },
+    {
+      "id": 68,
+      "nome": "Suco Del valle manga - 290ml",
+      "palavras_chave": [
+        "suco del valle manga - 290ml",
+        "suco del valle manga - 290ml",
+        "suco lata",
+        "valle manga",
+        "manga 290ml"
+      ],
+      "preco": 6.99,
+      "unidade": "un"
+    },
+    {
+      "id": 251,
+      "nome": "Suco Del valle Maracujá- 290ml",
+      "palavras_chave": [
+        "suco del valle maracujá- 290ml",
+        "suco del valle maracuja- 290ml",
+        "suco del",
+        "del valle",
+        "valle maracuja",
+        "maracuja 290ml"
+      ],
+      "preco": 6.99,
+      "unidade": "un"
+    },
+    {
+      "id": 512,
+      "nome": "Suco Del valle pessego - 290ml",
+      "palavras_chave": [
+        "suco del valle pessego - 290ml",
+        "suco del valle pessego - 290ml",
+        "valle pessego",
+        "pessego 290ml"
+      ],
+      "preco": 6.99,
+      "unidade": "un"
+    },
+    {
+      "id": 264,
+      "nome": "Suco DelValle Uva - 1L",
+      "palavras_chave": [
+        "suco delvalle uva - 1l",
+        "suco delvalle uva 1 litro",
+        "suco",
+         "delvalle uva 1Lt",
+        "uva 1l"
+      ],
+      "preco": 9.87,
+      "unidade": "un"
+    },
+    {
+      "id": 69,
+      "nome": "Suco Del valle uva - 290ml",
+      "palavras_chave": [
+        "suco del valle uva - 290ml",
+        "suco del valle uva - 290ml",
+        "valle uva",
+        "uva 290ml"
+      ],
+      "preco": 6.99,
+      "unidade": "un"
+    },
+    {
+      "id": 135,
+      "nome": "Suco de Uva integral Aurora - 200ml",
+      "palavras_chave": [
+        "suco de uva integral aurora - 200ml",
+        "suco de uva integral aurora - 200ml",
+        "aurora 200ml",
+        "uva integral",
+        "integral aurora",
+        "aurora 200ml"
+      ],
+      "preco": 5.99,
+      "unidade": "un"
+    },
+    {
+      "id": 174,
+      "nome": "Suco em pó Tang Laranja - 18g",
+      "palavras_chave": [
+        "suco em pó tang laranja - 18g",
+        "suco em po tang laranja - 18g",
+        "tang",
+        "po tang",
+        "tang laranja",
+        "laranja 18g"
+      ],
+      "preco": 2.49,
+      "unidade": "un"
+    },
+    {
+      "id": 404,
+      "nome": "Suco em pó Tang Maracujá - 18g",
+      "palavras_chave": [
+        "suco em pó tang maracujá - 18g",
+        "suco em po tang maracuja - 18g",
+        "po tang",
+        "tang maracuja",
+        "maracuja 18g"
+      ],
+      "preco": 2.49,
+      "unidade": "un"
+    },
+    {
+      "id": 175,
+      "nome": "Suco em pó Tang Uva - 18g",
+      "palavras_chave": [
+        "suco em pó tang uva - 18g",
+        "suco em po tang uva - 18g",
+        "tang",
+        "po tang",
+        "tang uva",
+        "uva 18g"
+      ],
+      "preco": 2.49,
+      "unidade": "un"
+    },
+    {
+      "id": 403,
+      "nome": "Suco Kapo Laranja - 200ml",
+      "palavras_chave": [
+        "suco kapo laranja - 200ml",
+        "suco kapo laranja - 200ml",
+        "suco kapo",
+        "kapo",
+        "laranja 200ml kapo",
+        "kapo 200ml",
+        "suco kapo",
+        "kapo laranja",
+        "laranja 200ml"
+      ],
+      "preco": 3.99,
+      "unidade": "un"
+    },
+    {
+      "id": 294,
+      "nome": "Suco Kapo maracuja - 200ml",
+      "palavras_chave": [
+        "suco kapo maracuja - 200ml",
+        "suco kapo maracuja - 200ml",
+        "suco kapo",
+        "kapo maracuja",
+        "maracuja 200ml"
+      ],
+      "preco": 3.99,
+      "unidade": "un"
+    },
+    {
+      "id": 457,
+      "nome": "Suco Kapo Morango - 200ml",
+      "palavras_chave": [
+        "suco kapo morango - 200ml",
+        "suco kapo morango - 200ml",
+        "suco kapo",
+        "kapo morango",
+        "morango 200ml"
+      ],
+      "preco": 3.99,
+      "unidade": "un"
+    },
+    {
+      "id": 295,
+      "nome": "Suco Kapo uva - 200ml",
+      "palavras_chave": [
+        "suco kapo uva - 200ml",
+        "suco kapo uva - 200ml",
+        "suco kapo",
+        "kapo uva",
+        "suco uva 200ml"
+      ],
+      "preco": 3.99,
+      "unidade": "un"
+    },
+    {
+      "id": 309,
+      "nome": "Suco Maguary Abacaxi- 1Lt",
+      "palavras_chave": [
+        "suco maguary abacaxi- 1lt",
+        "suco maguary abacaxi- 1lt",
+        "suco maguary",
+        "maguary abacaxi",
+        "abacaxi 1lt"
+      ],
+      "preco": 8.97,
+      "unidade": "un"
+    },
+    {
+      "id": 426,
+      "nome": "Suco Maguary Goiaba- 1Lt",
+      "palavras_chave": [
+        "suco maguary goiaba- 1lt",
+        "suco maguary goiaba- 1 litros",
+        "suco maguary",
+        "maguary goiaba",
+        "maguary 1lt"
+      ],
+      "preco": 8.97,
+      "unidade": "un"
+    },
+    {
+      "id": 84,
+      "nome": "Suco Maguary Laranja - 1Lt",
+      "palavras_chave": [
+        "suco maguary laranja - 1lt",
+        "suco maguary laranja - 1lt",
+        "suco maguary 1 litro",
+        "maguary laranja 1 litro",
+        "laranja 1lt"
+      ],
+      "preco": 8.97,
+      "unidade": "un"
+    },
+    {
+      "id": 531,
+      "nome": "Suco Maguary Maça- 1Lt",
+      "palavras_chave": [
+        "suco maguary maça- 1lt",
+        "suco maguary maca- 1 litro",
+        "suco maguary 1 litro",
+        "maguary maca 1 l",
+        "maca 1lt"
+      ],
+      "preco": 8.97,
+      "unidade": "un"
+    },
+    {
+      "id": 323,
+      "nome": "Suco Maguary Maracuja- 1Lt",
+      "palavras_chave": [
+        "suco maguary maracuja- 1lt",
+        "suco maguary maracuja- 1lt",
+        "suco maguary 1 litros",
+        "maguary maracuja 1 l",
+        "maracuja 1lt"
+      ],
+      "preco": 8.97,
+      "unidade": "un"
+    },
+    {
+      "id": 85,
+      "nome": "Suco Maguary Uva - 1Lt",
+      "palavras_chave": [
+        "suco maguary uva - 1lt",
+        "suco maguary uva - 1 litro",
+        "suco maguary 1 litro",
+        "maguary uva 1 litro",
+        "uva 1lt"
+      ],
+      "preco": 8.97,
+      "unidade": "un"
+    },
+    {
+      "id": 485,
+      "nome": "Suco Marata Abacaxi - 1Lt",
+      "palavras_chave": [
+        "suco marata abacaxi - 1lt",
+        "suco marata abacaxi - 1lt",
+        "marata abacaxi",
+        "abacaxi 1lt"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 452,
+      "nome": "Suco Marata Acerola - 1Lt",
+      "palavras_chave": [
+        "suco marata acerola - 1lt",
+        "suco marata acerola - 1lt",
+        "acerola",
+        "suco marata",
+        "marata acerola",
+        "suco acerola",
+        "acerola 1lt"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 365,
+      "nome": "Suco Marata Maracuja - 1Lt",
+      "palavras_chave": [
+        "suco marata maracuja - 1lt",
+        "suco marata maracuja - 1lt",
+        "suco marata",
+        "marata maracuja",
+        "maracuja 1lt"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 366,
+      "nome": "Suco Marata Uva - 1Lt",
+      "palavras_chave": [
+        "suco marata uva - 1lt",
+        "suco marata uva - 1lt",
+        "suco marata",
+        "marata uva",
+        "uva 1lt"
+      ],
+      "preco": 7.97,
+      "unidade": "un"
+    },
+    {
+      "id": 232,
+      "nome": "Suco natural one Laranja - 300ml",
+      "palavras_chave": [
+        "suco natural one laranja - 300ml",
+        "suco natural one laranja - 300ml",
+        "natural one 300ml",
+        "suco natural 300ml",
+        "natural one",
+        "one laranja 300ml",
+        "laranja 300ml"
+      ],
+      "preco": 8.13,
+      "unidade": "un"
+    },
+    {
+      "id": 425,
+      "nome": "Suco natural one Laranja e Maçã - 300ml",
+      "palavras_chave": [
+        "suco natural one laranja e maçã - 300ml",
+        "suco natural one laranja e maca - 300ml",
+        "suco natural",
+        "natural one",
+        "one laranja",
+        "laranja maca",
+        "maca 300ml"
+      ],
+      "preco": 8.13,
+      "unidade": "un"
+    },
+    {
+      "id": 338,
+      "nome": "Suco Natural one Maça - 300ml",
+      "palavras_chave": [
+        "suco natural one maça - 300ml",
+        "suco natural one maca - 300ml",
+        "natural one maça 300ml",
+        "suco natural",
+        "natural one maça",
+        "one maca",
+        "maca 300ml"
+      ],
+      "preco": 8.5,
+      "unidade": "un"
+    },
+    {
+      "id": 362,
+      "nome": "Suco Natural one Maracuja e Maça - 300ml",
+      "palavras_chave": [
+        "suco natural one maracuja e maça - 300ml",
+        "suco natural one maracuja e maca 300ml",
+        "suco natural one maracuja e maça",
+        "maracuja maca",
+        "suco one maracuja e maca 300ml"
+      ],
+      "preco": 7.77,
+      "unidade": "un"
+    },
+    {
+      "id": 311,
+      "nome": "Suco natural one Uva- 300ml",
+      "palavras_chave": [
+        "suco natural one uva- 300ml",
+        "suco natural one uva- 300ml",
+        "suco natural",
+        "natural one uva"
+      ],
+      "preco": 8.13,
+      "unidade": "un"
+    },
+    {
+      "id": 54,
+      "nome": "Suco Vigor laranja - 200ml",
+      "palavras_chave": [
+        "suco vigor laranja - 200ml",
+        "suco vigor laranja - 200ml",
+        "suco vigor",
+        "vigor laranja",
+        "suco laranja 200ml"
+      ],
+      "preco": 3.99,
+      "unidade": "un"
+    },
+    {
+      "id": 364,
+      "nome": "Suco Vigor Maça - 200ml",
+      "palavras_chave": [
+        "suco vigor maça - 200ml",
+        "suco vigor maca - 200ml",
+        "suco vigor",
+        "vigor maca",
+        "maca 200ml"
+      ],
+      "preco": 3.99,
+      "unidade": "un"
+    },
+    {
+      "id": 305,
+      "nome": "Suco Vigor Maracuja- 200ml",
+      "palavras_chave": [
+        "suco vigor maracuja- 200ml",
+        "suco vigor maracuja- 200ml",
+        "suco vigor",
+        "vigor maracuja",
+        "maracuja 200ml"
+      ],
+      "preco": 3.99,
+      "unidade": "un"
+    },
+    {
+      "id": 56,
+      "nome": "Suco Vigor morango - 200ml",
+      "palavras_chave": [
+        "suco vigor morango - 200ml",
+        "suco vigor morango - 200ml",
+        "suco vigor",
+        "vigor morango",
+        "morango 200ml"
+      ],
+      "preco": 3.99,
+      "unidade": "un"
+    },
+    {
+      "id": 55,
+      "nome": "Suco Vigor uva - 200ml",
+      "palavras_chave": [
+        "suco vigor uva - 200ml",
+        "suco vigor uva - 200ml",
+        "suco vigor",
+        "vigor uva",
+        "uva 200ml"
+      ],
+      "preco": 3.99,
+      "unidade": "un"
+    },
+    {
+      "id": 32,
+      "nome": "Sucrilhos Kellogg's - 110g",
+      "palavras_chave": [
+        "sucrilhos kellogg's - 110g",
+        "sucrilhos kellogg's - 110g",
+        "sucrilhos",
+        "kellogg's",
+        "sucrilhos kellogg's",
+        "kellogg's 110g"
+      ],
+      "preco": 10.56,
+      "unidade": "un"
+    },
+    {
+      "id": 437,
+      "nome": "Sucrilhos Matinal Snow flakes Nestlé  - 120g",
+      "palavras_chave": [
+        "sucrilhos matinal snow flakes nestlé  - 120g",
+        "sucrilhos matinal snow flakes nestle  - 120g",
+        "sucrilhos",
+        "matinal",
+        "snow",
+        "flakes",
+        "nestle",
+        "sucrilhos matinal",
+        "matinal snow",
+        "snow flakes",
+        "flakes nestle",
+        "nestle 120g"
+      ],
+      "preco": 10.87,
+      "unidade": "un"
+    },
+    {
+      "id": 352,
+      "nome": "Tempero Sazon - Sabores",
+      "palavras_chave": [
+        "tempero sazon - sabores",
+        "tempero sazon - sabores",
+        "tempero",
+        "sazon",
+        "tempero sazon",
+        "sazon sabores"
+      ],
+      "preco": 7.47,
+      "unidade": "un"
+    },
+    {
+      "id": 125,
+      "nome": "Torrada tradicional Adria 142g",
+      "palavras_chave": [
+        "torrada tradicional adria 142g",
+        "torrada tradicional adria 142g",
+        "torrada",
+        "torrada tradicional",
+        "tradicional adria",
+        "adria 142g"
+      ],
+      "preco": 6.97,
+      "unidade": "un"
+    },
+    {
+      "id": 536,
+      "nome": "Torta caipira de frango Sadia - 500g",
+      "palavras_chave": [
+        "torta caipira de frango sadia - 500g",
+        "torta caipira de frango sadia - 500g",
+        "torta",
+        "torta caipira 500g",
+        "caipira de frango",
+        "torta de frango",
+        "torta de frango sadia 500g",
+        "torta sadia 500g"
+      ],
+      "preco": 25.5,
+      "unidade": "un"
+    },
+    {
+      "id": 430,
+      "nome": "Trento branco duo - 29g",
+      "palavras_chave": [
+        "trento branco duo - 29g",
+        "trento branco duo - 29g",
+        "trento",
+        "trento branco",
+        "duo 29g"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 415,
+      "nome": "Trento de chocolate - 29g",
+      "palavras_chave": [
+        "trento de chocolate - 29g",
+        "trento de chocolate - 29g",
+        "trento de",
+        "chocolate 29g"
+      ],
+      "preco": 3.98,
+      "unidade": "un"
+    },
+    {
+      "id": 117,
+      "nome": "Veja multiuso - 500ml",
+      "palavras_chave": [
+        "veja multiuso - 500ml",
+        "veja multiuso - 500ml",
+        "veja",
+        "veja multiuso",
+        "multiuso 500ml"
+      ],
+      "preco": 8.99,
+      "unidade": "un"
+    },
+    {
+      "id": 334,
+      "nome": "Vinagre de alcool - 750ml",
+      "palavras_chave": [
+        "vinagre de alcool - 750ml",
+        "vinagre de alcool - 750ml",
+        "vinagre",
+        "vinagre alcool 750ml"
+      ],
+      "preco": 4.28,
+      "unidade": "un"
+    },
+    {
+      "id": 211,
+      "nome": "Vinho tinto suave  - 1L",
+      "palavras_chave": [
+        "vinho tinto suave  - 1l",
+        "vinho tinto suave  - 1l",
+        "vinho",
+        "vinho tinto",
+        "tinto suave",
+        "vinho suave 1l"
+      ],
+      "preco": 29.92,
+      "unidade": "un"
+    }
+  ]
+}
