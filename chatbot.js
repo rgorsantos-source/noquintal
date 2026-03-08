@@ -26,14 +26,20 @@ console.log(`📦 ${produtosInicial.length} produtos encontrados no arquivo.`);
 // CONFIGURAÇÃO DO CLIENTE
 // =====================================
 const client = new Client({
-  authStrategy: new LocalAuth(),
+  authStrategy: new LocalAuth({
+    dataPath: "/app/.wwebjs_auth"
+  }),
   puppeteer: {
     headless: true,
-executablePath: '/usr/bin/google-chrome-stable', // Caminho explícito para o Chrome
+    executablePath: "/usr/bin/google-chrome-stable",
     args: [
       "--no-sandbox",
       "--disable-setuid-sandbox",
       "--disable-dev-shm-usage",
+      "--disable-accelerated-2d-canvas",
+      "--no-first-run",
+      "--no-zygote",
+      "--single-process",
       "--disable-gpu",
     ],
   },
